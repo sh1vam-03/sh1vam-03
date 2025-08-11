@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git## <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/about.gif" width="32"/> About Me
+  <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/about.gif" width="32"/> About Me
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/line.gif" width="100%" height="2px">
@@ -22,10 +22,12 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6F3AFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Security+Expert;Automation+Specialist;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=sh1vam-03&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
 </div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=6F3AFF&center=true&vCenter=true&width=500&height=70&lines=Hi+There!;I'm+sh1vam-03!;Full+Stack+Developer;Security+Expert;Automation+Specialist" alt="Typing SVG" />
+</h1>
 
 <div align="center">
   <p>
@@ -41,13 +43,6 @@
     <strong>Creating Secure & Elegant Solutions</strong>
   </p>
 </div>
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=sh1vam-03&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
-</div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;I'm+sh1vam-03!;Security+Expert;Full+Stack+Developer;Automation+Specialist" />
-</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sh1vam-03&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
@@ -143,19 +138,28 @@
 </div>
 
 ### 🔹 [WA-Spam](https://github.com/sh1vam-03/WhatsApp-Spammer)  
-Automates WhatsApp messaging for testing & educational purposes.  
-- Multiple spam modes (counting, random, nonsense)  
-- Easy setup & usage  
+A powerful WhatsApp automation tool for testing & educational purposes.  
+- Multiple message modes: sequential, random, custom patterns
+- Configurable delay and message count
+- Browser automation using Selenium
+- Cross-platform compatibility
+- Easy-to-use interface
 
 ### 🔹 [StegaPic](https://github.com/sh1vam-03/LSB-Steganography-StegaPic)  
-Hide and extract messages or files from images using LSB technique.  
-- Password-protected extraction  
-- Terminal-based menu  
+Advanced steganography tool for secure message hiding in images.  
+- LSB (Least Significant Bit) implementation
+- AES encryption for message security
+- Support for multiple image formats
+- Password-protected extraction
+- Command-line interface for automation
 
 ### 🔹 [Gitman](https://github.com/sh1vam-03/gitman)  
-CLI tool to generate GitHub search queries for security research.  
-- Refines searches, removes false positives  
-- Great for ethical hacking & recon  
+Sophisticated GitHub search query generator for security research.  
+- Advanced search query optimization
+- Customizable search patterns
+- False positive reduction
+- Export results in multiple formats
+- Perfect for security research & reconnaissance
 
 ---
 
@@ -178,13 +182,45 @@ CLI tool to generate GitHub search queries for security research.
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" alt="Target" width="25" height="25"/> Current Focus
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="20" height="20"/> Advanced Penetration Testing Techniques
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="20" height="20"/> Developing Custom Security Tools
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Web" width="20" height="20"/> Full Stack Web Development
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Security" width="20" height="20"/> Web Application Security
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Book" width="20" height="20"/> Contributing to Open Source Projects
 
-## <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/connect.gif" width="32"/> Connect With Me
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="20" height="20"/>
+        <strong>Security Research</strong>
+        <br/>• Advanced Penetration Testing
+        <br/>• Zero-day Vulnerability Research
+        <br/>• Red Team Operations
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="20" height="20"/>
+        <strong>Tool Development</strong>
+        <br/>• Custom Security Tools
+        <br/>• Automation Frameworks
+        <br/>• Testing Utilities
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Web" width="20" height="20"/>
+        <strong>Web Technologies</strong>
+        <br/>• Full Stack Development
+        <br/>• Modern Frameworks
+        <br/>• Cloud Security
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Book" width="20" height="20"/>
+        <strong>Open Source</strong>
+        <br/>• Contributing to Security Tools
+        <br/>• Community Engagement
+        <br/>• Knowledge Sharing
+      </td>
+    </tr>
+  </table>
+</div>
+
+## <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/connect.gif" width="32"/> Let's Connect
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/line.gif" width="100%" height="2px">
@@ -193,16 +229,22 @@ CLI tool to generate GitHub search queries for security research.
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img align="center" src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/connect-animation.gif" width="200"/>
+      <td width="200">
+        <img align="center" src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/connect-animation.gif" width="180"/>
       </td>
       <td>
-<p align="center">
-  <a href="https://www.linkedin.com/in/sh1vam-03-"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/sh1vam.03"><img src="https://img.shields.io/badge/TryHackMe-1f1f1f.svg?&style=for-the-badge&logo=tryhackme&logoColor=red" /></a>
-  <a href="https://www.instagram.com/sh1vam_03"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/sh1vam-03"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+        <div align="center">
+          <p><strong>🌟 Let's collaborate and build something amazing together! 🌟</strong></p>
+          <a href="https://www.linkedin.com/in/sh1vam-03-"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+          <a href="https://tryhackme.com/p/sh1vam.03"><img src="https://img.shields.io/badge/TryHackMe-Follow-1f1f1f.svg?&style=for-the-badge&logo=tryhackme&logoColor=red" /></a>
+          <br/>
+          <a href="https://www.instagram.com/sh1vam_03"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+          <a href="https://github.com/sh1vam-03"><img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
