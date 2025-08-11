@@ -55,59 +55,63 @@
 
 ## <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/skills.gif" width="32"/> Tech Arsenal
 
-### 🛠️ Core Stack
-<div align="center" style="margin: 20px 0;">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,ts,js,python,html,css,tailwind" />
+### 🛠️ Tech Stack & Development Tools
+<div align="center" style="margin: 10px 0;">
+  <!-- Core Stack and Development Ecosystem in one row -->
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+    <div style="display: flex; align-items: center; gap: 15px; justify-content: center; background: rgba(111, 58, 255, 0.05); padding: 15px; border-radius: 10px;">
+      <span style="font-weight: bold; color: #6F3AFF;">Core Stack:</span>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,ts,js,python,html,css,tailwind" />
+    </div>
+    <div style="display: flex; align-items: center; gap: 15px; justify-content: center; background: rgba(111, 58, 255, 0.05); padding: 15px; border-radius: 10px;">
+      <span style="font-weight: bold; color: #6F3AFF;">Dev Tools:</span>
+      <img src="https://skillicons.dev/icons?i=vscode,git,docker,linux,aws,firebase,vercel,nginx" />
+    </div>
+  </div>
 </div>
 
 ### 🔒 Security Toolkit
 <div align="center">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; margin: 20px 0;">
-    <div style="background: rgba(111, 58, 255, 0.1); padding: 15px; border-radius: 8px; text-align: center;">
-      <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/kali.png" width="40"/>
-      <p>Kali Linux</p>
+  <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 15px; margin: 15px 0; max-width: 800px; margin: 0 auto;">
+    <div style="background: rgba(111, 58, 255, 0.1); padding: 12px; border-radius: 8px; text-align: center;">
+      <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/kali.png" width="35"/>
+      <p style="margin: 5px 0;">Kali Linux</p>
     </div>
-    <div style="background: rgba(111, 58, 255, 0.1); padding: 15px; border-radius: 8px; text-align: center;">
-      <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/burp.png" width="40"/>
-      <p>Burp Suite</p>
+    <div style="background: rgba(111, 58, 255, 0.1); padding: 12px; border-radius: 8px; text-align: center;">
+      <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/burp.png" width="35"/>
+      <p style="margin: 5px 0;">Burp Suite</p>
     </div>
-    <div style="background: rgba(111, 58, 255, 0.1); padding: 15px; border-radius: 8px; text-align: center;">
-      <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/metasploit.png" width="40"/>
-      <p>Metasploit</p>
+    <div style="background: rgba(111, 58, 255, 0.1); padding: 12px; border-radius: 8px; text-align: center;">
+      <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/metasploit.png" width="35"/>
+      <p style="margin: 5px 0;">Metasploit</p>
     </div>
-    <div style="background: rgba(111, 58, 255, 0.1); padding: 15px; border-radius: 8px; text-align: center;">
-      <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/wireshark.png" width="40"/>
-      <p>Wireshark</p>
+    <div style="background: rgba(111, 58, 255, 0.1); padding: 12px; border-radius: 8px; text-align: center;">
+      <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/wireshark.png" width="35"/>
+      <p style="margin: 5px 0;">Wireshark</p>
     </div>
-    <div style="background: rgba(111, 58, 255, 0.1); padding: 15px; border-radius: 8px; text-align: center;">
-      <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/nmap.png" width="40"/>
-      <p>Nmap</p>
+    <div style="background: rgba(111, 58, 255, 0.1); padding: 12px; border-radius: 8px; text-align: center;">
+      <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/nmap.png" width="35"/>
+      <p style="margin: 5px 0;">Nmap</p>
     </div>
-  </div>
-</div>
-
-### 🏗️ Development Ecosystem
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
-    <img src="https://skillicons.dev/icons?i=vscode,git,docker,linux,aws,firebase,vercel,nginx" />
   </div>
 </div>
 
 ### 📊 Full Stack Breakdown
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 20px 0;">
-    <div style="background: rgba(111, 58, 255, 0.1); padding: 20px; border-radius: 10px; width: 280px;">
-      <h4>Frontend</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div align="center" style="margin: 15px 0;">
+  <!-- Frontend and Backend in one row with fixed width -->
+  <div style="display: flex; justify-content: center; gap: 20px; margin: 10px auto; max-width: 1000px;">
+    <div style="background: rgba(111, 58, 255, 0.1); padding: 15px; border-radius: 10px; flex: 1;">
+      <h4 style="margin: 0 0 10px 0;">Frontend</h4>
+      <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
       </div>
     </div>
-    <div style="background: rgba(111, 58, 255, 0.1); padding: 20px; border-radius: 10px; width: 280px;">
-      <h4>Backend</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <div style="background: rgba(111, 58, 255, 0.1); padding: 15px; border-radius: 10px; flex: 1;">
+      <h4 style="margin: 0 0 10px 0;">Backend</h4>
+      <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
