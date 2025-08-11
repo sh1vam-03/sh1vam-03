@@ -174,16 +174,43 @@ Advanced GitHub reconnaissance tool for security professionals.
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25"/> GitHub Analytics
 
 <div align="center" style="margin: 30px 0;">
+  <!-- GitHub Stats Card -->
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sh1vam-03&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6F3AFF&icon_color=6F3AFF&text_color=FFFFFF" alt="GitHub Stats" />
-    <img src="https://streak-stats.demolab.com?user=sh1vam-03&theme=midnight-purple&hide_border=true&background=0D1117&stroke=6F3AFF&ring=6F3AFF&fire=FF8800&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6F3AFF" alt="GitHub Streak" />
+    <!-- Using DenverCoder1's alternative deployment for streak stats -->
+    <img src="https://streak-stats.demolab.com/?user=sh1vam-03&theme=transparent&hide_border=true&background=0D1117&stroke=6F3AFF&ring=6F3AFF&fire=FF8800&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6F3AFF&dates=888888" alt="GitHub Streak" />
   </div>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <!-- GitHub Snake Animation -->
+  <div align="center" style="margin: 20px 0;">
+    <h4>🐍 My Contribution Graph</h4>
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/snake-output/github-contribution-grid-snake-dark.svg"
+      />
+      <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/snake-output/github-contribution-grid-snake.svg"
+      />
+      <img 
+        alt="github-snake" 
+        src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/snake-output/github-contribution-grid-snake.svg" 
+      />
+    </picture>
+  </div>
+
+  <!-- GitHub Language Stats -->
+  <div align="center" style="margin: 20px 0;">
+    <h4>💻 Most Used Languages</h4>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1vam-03&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=6F3AFF&text_color=FFFFFF" alt="Most Used Languages" />
+  </div>
+
+  <!-- GitHub Trophies -->
+  <div align="center" style="margin: 20px 0;">
+    <h4>🏆 GitHub Profile Trophies</h4>
+    <img src="https://github-profile-trophy.vercel.app/?username=sh1vam-03&theme=onestar&no-frame=true&column=-1&margin-w=15&margin-h=15" />
+  </div>
 
   <div style="margin: 20px 0;">
     <img src="https://github-profile-trophy.vercel.app/?username=sh1vam-03&theme=radical&no-frame=true&row=1&margin-w=20&no-bg=true&title=MultiLanguage,Commits,Repositories,PullRequest" alt="Trophy" />
