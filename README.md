@@ -52,26 +52,6 @@
         Accomplished <strong>Security Architect</strong> and <strong>Full Stack Developer</strong> with expertise in designing and implementing secure, scalable applications. Specialized in integrating security measures throughout the development lifecycle while maintaining high performance and user experience.
       </p>
     </div>
-    <>
-    <div style="background: rgba(111, 58, 255, 0.1); padding: 20px; border-radius: 10px; border-top: 3px solid #6F3AFF;">
-      <h3 style="color: #6F3AFF; margin-bottom: 15px; font-size: 1.2em;">�️ Core Competencies</h3>
-      <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.6;">
-        <li style="margin-bottom: 8px;">• <strong>Application Security</strong>: OWASP Top 10, Secure SDLC</li>
-        <li style="margin-bottom: 8px;">• <strong>Security Assessment</strong>: Penetration Testing, Vulnerability Analysis</li>
-        <li style="margin-bottom: 8px;">• <strong>Architecture Design</strong>: Cloud Security, Zero Trust Architecture</li>
-        <li style="margin-bottom: 8px;">• <strong>Development</strong>: Full Stack Engineering, Security Tooling</li>
-      </ul>
-    </div>
-    <>
-    <div style="background: rgba(111, 58, 255, 0.1); padding: 20px; border-radius: 10px; border-top: 3px solid #6F3AFF;">
-      <h3 style="color: #6F3AFF; margin-bottom: 15px; font-size: 1.2em;">🎯 Current Focus</h3>
-      <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.6;">
-        <li style="margin-bottom: 8px;">• <strong>Cloud Security</strong>: Advanced AWS/Azure security architecture</li>
-        <li style="margin-bottom: 8px;">• <strong>Zero-Day Research</strong>: Vulnerability discovery and responsible disclosure</li>
-        <li style="margin-bottom: 8px;">• <strong>DevSecOps</strong>: Security automation and CI/CD pipeline security</li>
-        <li style="margin-bottom: 8px;">• <strong>Red Team Tools</strong>: Development of specialized security testing tools</li>
-      </ul>
-    </div>
   </div>
 </div>
 
