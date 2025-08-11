@@ -221,42 +221,6 @@ Advanced GitHub reconnaissance tool for security professionals.
   </div>
 </div>
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" alt="Target" width="25" height="25"/> Current Focus
-
-<div align="center">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 20px 0;">
-    <div style="background: rgba(111, 58, 255, 0.1); padding: 15px; border-radius: 8px; text-align: center;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="40"/>
-      <h4>Security Research</h4>
-      <p>Advanced Pen Testing</p>
-      <p>Zero-day Research</p>
-      <p>Red Team Ops</p>
-    </div>
-    <div style="background: rgba(111, 58, 255, 0.1); padding: 15px; border-radius: 8px; text-align: center;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="40"/>
-      <h4>Tool Development</h4>
-      <p>Security Tools</p>
-      <p>Automation</p>
-      <p>Testing Frameworks</p>
-    </div>
-    <div style="background: rgba(111, 58, 255, 0.1); padding: 15px; border-radius: 8px; text-align: center;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="40"/>
-      <h4>Web Security</h4>
-      <p>Secure Coding</p>
-      <p>Modern Frameworks</p>
-      <p>Cloud Security</p>
-    </div>
-    <div style="background: rgba(111, 58, 255, 0.1); padding: 15px; border-radius: 8px; text-align: center;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="40"/>
-      <h4>Open Source</h4>
-      <p>Tool Contributions</p>
-      <p>Community</p>
-      <p>Knowledge Sharing</p>
-    </div>
-  </div>
-</div>
 
 ---
 
