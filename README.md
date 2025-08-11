@@ -43,24 +43,34 @@
 
 ---
 
-## 🎯 About Me  
-<div align="center" style="background: rgba(111, 58, 255, 0.05); padding: 20px; border-radius: 10px; border-left: 4px solid #6F3AFF; max-width: 1200px; margin: 0 auto;">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
-    <div style="background: rgba(111, 58, 255, 0.1); padding: 15px; border-radius: 10px;">
-      <h3 style="color: #6F3AFF; margin-bottom: 10px;">💻 Expertise</h3>
-      <p><strong>Security-focused developer</strong> specializing in secure coding practices, red team tooling, and defensive automation. Expert in building resilient systems with a focus on cybersecurity.</p>
+## 🎯 Professional Overview  
+<div style="background: rgba(111, 58, 255, 0.05); padding: 25px; border-radius: 10px; max-width: 1200px; margin: 0 auto;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px;">
+    <div style="background: rgba(111, 58, 255, 0.1); padding: 20px; border-radius: 10px; border-top: 3px solid #6F3AFF;">
+      <h3 style="color: #6F3AFF; margin-bottom: 15px; font-size: 1.2em;">� Professional Summary</h3>
+      <p style="line-height: 1.6;">
+        Accomplished <strong>Security Architect</strong> and <strong>Full Stack Developer</strong> with expertise in designing and implementing secure, scalable applications. Specialized in integrating security measures throughout the development lifecycle while maintaining high performance and user experience.
+      </p>
     </div>
-    <div style="background: rgba(111, 58, 255, 0.1); padding: 15px; border-radius: 10px;">
-      <h3 style="color: #6F3AFF; margin-bottom: 10px;">🔍 Focus Areas</h3>
-      <p><strong>• Secure Development</strong>: Writing secure, efficient code<br/>
-      <strong>• Penetration Testing</strong>: Web and network security<br/>
-      <strong>• Automation</strong>: Security tooling and workflows</p>
+    
+    <div style="background: rgba(111, 58, 255, 0.1); padding: 20px; border-radius: 10px; border-top: 3px solid #6F3AFF;">
+      <h3 style="color: #6F3AFF; margin-bottom: 15px; font-size: 1.2em;">�️ Core Competencies</h3>
+      <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.6;">
+        <li style="margin-bottom: 8px;">• <strong>Application Security</strong>: OWASP Top 10, Secure SDLC</li>
+        <li style="margin-bottom: 8px;">• <strong>Security Assessment</strong>: Penetration Testing, Vulnerability Analysis</li>
+        <li style="margin-bottom: 8px;">• <strong>Architecture Design</strong>: Cloud Security, Zero Trust Architecture</li>
+        <li style="margin-bottom: 8px;">• <strong>Development</strong>: Full Stack Engineering, Security Tooling</li>
+      </ul>
     </div>
-    <div style="background: rgba(111, 58, 255, 0.1); padding: 15px; border-radius: 10px;">
-      <h3 style="color: #6F3AFF; margin-bottom: 10px;">🚀 Current Goals</h3>
-      <p><strong>• Advanced Exploitation</strong>: Mastering new techniques<br/>
-      <strong>• Cloud Security</strong>: AWS and Azure architecture<br/>
-      <strong>• Tool Development</strong>: Creating security solutions</p>
+    
+    <div style="background: rgba(111, 58, 255, 0.1); padding: 20px; border-radius: 10px; border-top: 3px solid #6F3AFF;">
+      <h3 style="color: #6F3AFF; margin-bottom: 15px; font-size: 1.2em;">🎯 Current Focus</h3>
+      <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.6;">
+        <li style="margin-bottom: 8px;">• <strong>Cloud Security</strong>: Advanced AWS/Azure security architecture</li>
+        <li style="margin-bottom: 8px;">• <strong>Zero-Day Research</strong>: Vulnerability discovery and responsible disclosure</li>
+        <li style="margin-bottom: 8px;">• <strong>DevSecOps</strong>: Security automation and CI/CD pipeline security</li>
+        <li style="margin-bottom: 8px;">• <strong>Red Team Tools</strong>: Development of specialized security testing tools</li>
+      </ul>
     </div>
   </div>
 </div>
@@ -154,7 +164,7 @@
   <!-- GitHub Stats Cards -->
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=sh1vam-03&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=6F3AFF&icon_color=6F3AFF&text_color=FFFFFF&ring_color=6F3AFF" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh1vam-03&theme=transparent&hide_border=true&background=0D1117&ring=6F3AFF&fire=FF8800&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6F3AFF&stroke=6F3AFF&dates=888888" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=sh1vam-03&theme=dark&hide_border=true&background=0D1117&stroke=6F3AFF&ring=6F3AFF&fire=FF8800&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6F3AFF&dates=888888" alt="GitHub Streak" />
   </div>
 
   <!-- GitHub Contribution Graph -->
