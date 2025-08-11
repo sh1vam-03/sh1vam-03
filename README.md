@@ -109,6 +109,9 @@
   <!-- Frontend and Backend in one table -->
   <table style="background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; width: 100%;">
     <tr>
+      <th colspan="2" align="center"><b>📊 Full Stack Breakdown</b></th>
+    </tr>
+    <tr>
       <td align="center" width="50%" style="padding: 15px; background: rgba(111, 58, 255, 0.1); border-radius: 10px;">
         <h4 style="margin: 0 0 10px 0;">Frontend</h4>
         <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
