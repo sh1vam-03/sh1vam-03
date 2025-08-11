@@ -56,15 +56,21 @@
 ## <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/skills.gif" width="32"/> Tech Arsenal
 
 <div align="center">
-  <!-- Languages and Tools Table -->
-  <table style="background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0;">
+  <!-- Core Stack and Dev Tools Table -->
+  <table style="background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; width: 100%;">
     <tr>
-      <td align="center"><b>🛠️ Core Stack</b></td>
-      <td><img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,ts,js,python,html,css,tailwind" /></td>
-    </tr>
-    <tr>
-      <td align="center"><b>⚙️ Dev Tools</b></td>
-      <td><img src="https://skillicons.dev/icons?i=vscode,git,docker,linux,aws,firebase,vercel,nginx" /></td>
+      <td align="center" width="50%" style="padding: 15px; background: rgba(111, 58, 255, 0.1); border-radius: 10px;">
+        <h4 style="margin: 0 0 10px 0;">🛠️ Core Stack</h4>
+        <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,ts,js,python,html,css,tailwind" />
+        </div>
+      </td>
+      <td align="center" width="50%" style="padding: 15px; background: rgba(111, 58, 255, 0.1); border-radius: 10px;">
+        <h4 style="margin: 0 0 10px 0;">⚙️ Dev Tools</h4>
+        <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+          <img src="https://skillicons.dev/icons?i=vscode,git,docker,linux,aws,firebase,vercel,nginx" />
+        </div>
+      </td>
     </tr>
   </table>
 
