@@ -1,8 +1,48 @@
- Profile Heade## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25"/> About Me  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="20" height="20"/> Full Stack Developer with expertise in **Web Development** and **Security**.  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="20" height="20"/> Specialized in **Cybersecurity**, **Penetration Testing**, and **Security Tool Development**.  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Search" width="20" height="20"/> Passionate about solving **complex security challenges** and building **robust web applications**.  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="High Voltage" width="20" height="20"/> Fun fact: I create tools that combine **security** with **elegant web interfaces**.
+<div align="center">
+  <a href="https://git## <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/about.gif" width="32"/> About Me
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/line.gif" width="100%" height="2px">
+</div>
+
+<table align="center">
+  <tr>
+    <td>
+      <img align="center" src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/code-thinking.gif" width="200"/>
+    </td>
+    <td>
+      • Crafting secure web applications & security tools<br/>
+      • Expert in penetration testing & vulnerability assessment<br/>
+      • Building automated solutions for complex problems<br/>
+      • Contributing to open-source security projects<br/>
+      • Passionate about web security & modern development
+    </td>
+  </tr>
+</table>om/sh1vam-03">
+    <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/header.svg" alt="Header" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6F3AFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Security+Expert;Automation+Specialist;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <p>
+    <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/code.gif" width="32" />
+    <strong>Full Stack Developer & Security Expert</strong>
+  </p>
+  <p>
+    <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/shield.gif" width="32" />
+    <strong>Specialized in Web Security & Penetration Testing</strong>
+  </p>
+  <p>
+    <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/rocket.gif" width="32" />
+    <strong>Creating Secure & Elegant Solutions</strong>
+  </p>
+</div>
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=sh1vam-03&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
 </div>
@@ -28,7 +68,11 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25"/> Skills & Technologies
+## <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/skills.gif" width="32"/> Skills & Technologies
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/line.gif" width="100%" height="2px">
+</div>
 
 <details>
 <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20"/> Programming & Web Technologies</summary>
@@ -67,7 +111,38 @@
 
 ---
 
-## 📌 Featured Projects  
+## <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/projects.gif" width="32"/> Featured Projects
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/line.gif" width="100%" height="2px">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">WA-Spam</h3>
+        <div align="center">
+          <a href="https://github.com/sh1vam-03/WhatsApp-Spammer" target="_blank">
+            <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/project1.gif" width="400" alt="WA-Spam"/>
+          </a>
+          <p><strong>WhatsApp Automation Tool</strong></p>
+          <p>Advanced messaging automation with multiple modes</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">StegaPic</h3>
+        <div align="center">
+          <a href="https://github.com/sh1vam-03/LSB-Steganography-StegaPic" target="_blank">
+            <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/project2.gif" width="400" alt="StegaPic"/>
+          </a>
+          <p><strong>LSB Steganography Tool</strong></p>
+          <p>Secure message hiding in images with encryption</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### 🔹 [WA-Spam](https://github.com/sh1vam-03/WhatsApp-Spammer)  
 Automates WhatsApp messaging for testing & educational purposes.  
@@ -111,7 +186,19 @@ CLI tool to generate GitHub search queries for security research.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Security" width="20" height="20"/> Web Application Security
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Book" width="20" height="20"/> Contributing to Open Source Projects
 
-## 🌐 Connect With Me  
+## <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/connect.gif" width="32"/> Connect With Me
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/line.gif" width="100%" height="2px">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img align="center" src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/connect-animation.gif" width="200"/>
+      </td>
+      <td>
 <p align="center">
   <a href="https://www.linkedin.com/in/sh1vam-03-"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://tryhackme.com/p/sh1vam.03"><img src="https://img.shields.io/badge/TryHackMe-1f1f1f.svg?&style=for-the-badge&logo=tryhackme&logoColor=red" /></a>
