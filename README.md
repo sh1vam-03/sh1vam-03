@@ -62,7 +62,7 @@
         <li style="margin-bottom: 8px;">• <strong>Development</strong>: Full Stack Engineering, Security Tooling</li>
       </ul>
     </div>
-    
+    <>
     <div style="background: rgba(111, 58, 255, 0.1); padding: 20px; border-radius: 10px; border-top: 3px solid #6F3AFF;">
       <h3 style="color: #6F3AFF; margin-bottom: 15px; font-size: 1.2em;">🎯 Current Focus</h3>
       <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.6;">
