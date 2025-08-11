@@ -1,10 +1,14 @@
-<!-- Profile Header -->
+<!-- Profile Heade## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25"/> About Me  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="20" height="20"/> Full Stack Developer with expertise in **Web Development** and **Security**.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="20" height="20"/> Specialized in **Cybersecurity**, **Penetration Testing**, and **Security Tool Development**.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Search" width="20" height="20"/> Passionate about solving **complex security challenges** and building **robust web applications**.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="High Voltage" width="20" height="20"/> Fun fact: I create tools that combine **security** with **elegant web interfaces**.
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shivam&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=sh1vam-03&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Shivam!;+🔐+Security+Enthusiast;🐍+Python+Developer;⚡+Automation+Expert" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;I'm+sh1vam-03!;Security+Expert;Full+Stack+Developer;Automation+Specialist" />
 </h1>
 
 <p align="center">
@@ -24,19 +28,24 @@
 
 ---
 
-## 🛠 Skills & Technologies
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25"/> Skills & Technologies
 
 <details>
-<summary>💻 Programming Languages</summary>
+<summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20"/> Programming & Web Technologies</summary>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
 </details>
 
 <details>
-<summary>🔒 Security & Tools</summary>
+<summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="20" height="20"/> Security & Tools</summary>
 <div align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=buffer&logoColor=white" />
@@ -77,15 +86,15 @@ CLI tool to generate GitHub search queries for security research.
 
 ---
 
-## 📊 GitHub Stats  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25"/> GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sh1vam-03&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh1vam-03&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160" />
+  <img src="https://streak-stats.demolab.com?user=sh1vam-03&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160" />
 </p>
 
 ---
 
-## 📈 GitHub Activity Graph  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Graph" width="25" height="25"/> GitHub Activity Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh1vam-03&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
@@ -95,12 +104,12 @@ CLI tool to generate GitHub search queries for security research.
   <img src="https://github-profile-trophy.vercel.app/?username=sh1vam-03&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true" alt="Trophy" />
 </div>
 
-## 🎯 Current Focus
-- 🔒 Advanced Penetration Testing Techniques
-- 🛠️ Developing Custom Security Tools
-- 🤖 Machine Learning in Cybersecurity
-- 🌐 Web Application Security
-- 📚 Contributing to Open Source Security Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" alt="Target" width="25" height="25"/> Current Focus
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="20" height="20"/> Advanced Penetration Testing Techniques
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="20" height="20"/> Developing Custom Security Tools
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Web" width="20" height="20"/> Full Stack Web Development
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Security" width="20" height="20"/> Web Application Security
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Book" width="20" height="20"/> Contributing to Open Source Projects
 
 ## 🌐 Connect With Me  
 <p align="center">
