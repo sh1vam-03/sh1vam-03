@@ -125,58 +125,6 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/projects.gif" width="32"/> Featured Projects
-
-<div align="center" style="margin: 30px 0;">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px;">
-    <!-- Project 1 -->
-    <div style="background: rgba(111, 58, 255, 0.05); padding: 20px; border-radius: 10px; border-top: 4px solid #6F3AFF;">
-      <h3 align="center">WA-Spam</h3>
-      <div align="center">
-        <a href="https://github.com/sh1vam-03/WhatsApp-Spammer" target="_blank">
-          <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/project1.gif" width="100%" style="border-radius: 8px;"/>
-        </a>
-        <p><strong>WhatsApp Automation Framework</strong></p>
-        <p style="color: #888;">Advanced messaging automation with multiple operational modes for security testing</p>
-        <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-top: 10px;">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white" />
-          <img src="https://img.shields.io/badge/Automation-6F3AFF?style=flat-square" />
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-### 🔹 [WA-Spam](https://github.com/sh1vam-03/WhatsApp-Spammer)  
-Advanced WhatsApp automation framework designed for security testing and research purposes.
-
-✔ **Multiple operational modes**: Sequential, random, and pattern-based messaging  
-✔ **Configurable parameters**: Adjustable delays, message counts, and content rotation  
-✔ **Browser automation**: Powered by Selenium WebDriver for reliable execution  
-✔ **Cross-platform**: Compatible with Windows, Linux, and macOS environments  
-✔ **Educational focus**: Intended for responsible security research only  
-
-### 🔹 [StegaPic](https://github.com/sh1vam-03/LSB-Steganography-StegaPic)  
-Military-grade steganography solution for secure covert communications.
-
-✔ **LSB implementation**: Least Significant Bit algorithm for minimal visual impact  
-✔ **AES-256 encryption**: Bank-level security for hidden messages  
-✔ **Multi-format support**: Works with PNG, JPEG, BMP image formats  
-✔ **Password protection**: Secure extraction with cryptographic authentication  
-✔ **CLI interface**: Scriptable for automation and integration  
-
-### 🔹 [Gitman](https://github.com/sh1vam-03/gitman)  
-Advanced GitHub reconnaissance tool for security professionals.
-
-✔ **Precision search**: Optimized queries for vulnerability discovery  
-✔ **Pattern recognition**: Identifies sensitive data exposure patterns  
-✔ **False positive reduction**: Advanced filtering algorithms  
-✔ **Multi-format export**: CSV, JSON, and Markdown reporting  
-✔ **Research-grade**: Designed for professional security audits  
-
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25"/> GitHub Analytics
 
 <div align="center" style="margin: 30px 0;">
