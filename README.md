@@ -18,9 +18,7 @@
       • Passionate about web security & modern development
     </td>
   </tr>
-</table>om/sh1vam-03">
-    <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/header.svg" alt="Header" />
-  </a>
+</table>
 </div>
 
 <div align="center">
