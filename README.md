@@ -44,11 +44,25 @@
 ---
 
 ## 🎯 About Me  
-<div style="background: rgba(111, 58, 255, 0.05); padding: 20px; border-radius: 10px; border-left: 4px solid #6F3AFF;">
-  <p>💻 <strong>Security-focused developer</strong> specializing in <strong>secure coding practices</strong>, <strong>red team tooling</strong>, and <strong>defensive automation</strong>.</p>
-  <p>🔍 <strong>Passionate</strong> about uncovering vulnerabilities before they become threats and building <strong>resilient systems</strong>.</p>
-  <p>📚 <strong>Currently mastering</strong> advanced exploitation techniques and cloud security architectures.</p>
-  <p>⚡ <strong>Fun fact:</strong> I enjoy creating tools that <em>look harmless but pack serious security capabilities</em>.</p>
+<div align="center" style="background: rgba(111, 58, 255, 0.05); padding: 20px; border-radius: 10px; border-left: 4px solid #6F3AFF; max-width: 1200px; margin: 0 auto;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+    <div style="background: rgba(111, 58, 255, 0.1); padding: 15px; border-radius: 10px;">
+      <h3 style="color: #6F3AFF; margin-bottom: 10px;">💻 Expertise</h3>
+      <p><strong>Security-focused developer</strong> specializing in secure coding practices, red team tooling, and defensive automation. Expert in building resilient systems with a focus on cybersecurity.</p>
+    </div>
+    <div style="background: rgba(111, 58, 255, 0.1); padding: 15px; border-radius: 10px;">
+      <h3 style="color: #6F3AFF; margin-bottom: 10px;">🔍 Focus Areas</h3>
+      <p><strong>• Secure Development</strong>: Writing secure, efficient code<br/>
+      <strong>• Penetration Testing</strong>: Web and network security<br/>
+      <strong>• Automation</strong>: Security tooling and workflows</p>
+    </div>
+    <div style="background: rgba(111, 58, 255, 0.1); padding: 15px; border-radius: 10px;">
+      <h3 style="color: #6F3AFF; margin-bottom: 10px;">🚀 Current Goals</h3>
+      <p><strong>• Advanced Exploitation</strong>: Mastering new techniques<br/>
+      <strong>• Cloud Security</strong>: AWS and Azure architecture<br/>
+      <strong>• Tool Development</strong>: Creating security solutions</p>
+    </div>
+  </div>
 </div>
 
 ---
@@ -57,22 +71,21 @@
 
 <div align="center">
   <!-- Core Stack and Dev Tools Table -->
-  <table style="background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; width: 100%;">
-    <tr>
-      <td align="center" width="50%" style="padding: 15px; background: rgba(111, 58, 255, 0.1); border-radius: 10px;">
-        <h4 style="margin: 0 0 10px 0;">🛠️ Core Stack</h4>
-        <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,ts,js,python,html,css,tailwind" height="40" />
-        </div>
-      </td>
-      <td align="center" width="50%" style="padding: 15px; background: rgba(111, 58, 255, 0.1); border-radius: 10px;">
-        <h4 style="margin: 0 0 10px 0;">⚙️ Dev Tools</h4>
-        <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-          <img src="https://skillicons.dev/icons?i=vscode,git,docker,linux,aws,firebase,vercel,nginx" height="40" />
-        </div>
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
+    <div style="flex: 1; min-width: 300px; max-width: 600px; background: rgba(111, 58, 255, 0.05); padding: 15px; border-radius: 10px;">
+      <h4 style="margin: 0 0 15px 0; color: #6F3AFF;">🛠️ Core Stack</h4>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,ts,js,python,html,css,tailwind" height="40" style="max-width: 100%;" />
+      </div>
+    </div>
+    <div style="flex: 1; min-width: 300px; max-width: 600px; background: rgba(111, 58, 255, 0.05); padding: 15px; border-radius: 10px;">
+      <h4 style="margin: 0 0 15px 0; color: #6F3AFF;">⚙️ Dev Tools</h4>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+        <img src="https://skillicons.dev/icons?i=vscode,git,docker,linux,aws,firebase,vercel,nginx" height="40" style="max-width: 100%;" />
+      </div>
+    </div>
+  </div>
+  
 
   <!-- Security Tools Table -->
   <table style="background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0;">
