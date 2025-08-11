@@ -47,12 +47,12 @@
 <div style="background: rgba(111, 58, 255, 0.05); padding: 25px; border-radius: 10px; max-width: 1200px; margin: 0 auto;">
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px;">
     <div style="background: rgba(111, 58, 255, 0.1); padding: 20px; border-radius: 10px; border-top: 3px solid #6F3AFF;">
-      <h3 style="color: #6F3AFF; margin-bottom: 15px; font-size: 1.2em;">� Professional Summary</h3>
+      <h3 style="color: #6F3AFF; margin-bottom: 15px; font-size: 1.2em;">Professional Summary</h3>
       <p style="line-height: 1.6;">
         Accomplished <strong>Security Architect</strong> and <strong>Full Stack Developer</strong> with expertise in designing and implementing secure, scalable applications. Specialized in integrating security measures throughout the development lifecycle while maintaining high performance and user experience.
       </p>
     </div>
-    
+    <>
     <div style="background: rgba(111, 58, 255, 0.1); padding: 20px; border-radius: 10px; border-top: 3px solid #6F3AFF;">
       <h3 style="color: #6F3AFF; margin-bottom: 15px; font-size: 1.2em;">�️ Core Competencies</h3>
       <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.6;">
