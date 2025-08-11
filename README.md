@@ -62,13 +62,13 @@
       <td align="center" width="50%" style="padding: 15px; background: rgba(111, 58, 255, 0.1); border-radius: 10px;">
         <h4 style="margin: 0 0 10px 0;">🛠️ Core Stack</h4>
         <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,ts,js,python,html,css,tailwind" />
+          <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,ts,js,python,html,css,tailwind" height="40" />
         </div>
       </td>
       <td align="center" width="50%" style="padding: 15px; background: rgba(111, 58, 255, 0.1); border-radius: 10px;">
         <h4 style="margin: 0 0 10px 0;">⚙️ Dev Tools</h4>
         <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-          <img src="https://skillicons.dev/icons?i=vscode,git,docker,linux,aws,firebase,vercel,nginx" />
+          <img src="https://skillicons.dev/icons?i=vscode,git,docker,linux,aws,firebase,vercel,nginx" height="40" />
         </div>
       </td>
     </tr>
@@ -104,7 +104,6 @@
   </table>
 </div>
 
-### 📊 Full Stack Breakdown
 <div align="center">
   <!-- Frontend and Backend in one table -->
   <table style="background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; width: 100%;">
