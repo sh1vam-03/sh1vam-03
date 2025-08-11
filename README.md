@@ -139,29 +139,6 @@
         </div>
       </div>
     </div>
-
-    <div>
-        <div>
-    <div>
-    <div>
-    <div>
-
-    <!-- Project 2 -
-    <div style="background: rgba(111, 58, 255, 0.05); padding: 20px; border-radius: 10px; border-top: 4px solid #6F3AFF;">
-      <h3 align="center">StegaPic</h3>
-      <div align="center">
-        <a href="https://github.com/sh1vam-03/LSB-Steganography-StegaPic" target="_blank">
-          <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/project2.gif" width="100%" style="border-radius: 8px;"/>
-        </a>
-        <p><strong>Covert Communication Tool</strong></p>
-        <p style="color: #888;">Secure message hiding in images with military-grade encryption</p>
-        <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-top: 10px;">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/AES-6F3AFF?style=flat-square" />
-          <img src="https://img.shields.io/badge/Cryptography-6F3AFF?style=flat-square" />
-        </div>
-      </div>
-    </div>
   </div>
 </div>
 
