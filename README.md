@@ -1,19 +1,5 @@
 <div align="center">
-  <img width="100%" src=## About Me  
-<div style="background: rgba(111, 58, 255, 0.05); padding: 25px; border-radius: 10px; max-width: 1200px; margin: 0 auto;">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px;">
-    <div style="background: rgba(111, 58, 255, 0.1); padding: 20px; border-radius: 10px; border-top: 3px solid #6F3AFF;">
-      <h3 style="color: #6F3AFF; margin-bottom: 15px; font-size: 1.2em;">Professional Summary</h3>
-      <p style="line-height: 1.6;">
-        Accomplished <strong>Security Architect</strong> and <strong>Full Stack Developer</strong> with expertise in designing and implementing secure, scalable applications. Specialized in integrating security measures throughout the development lifecycle while maintaining high performance and user experience.
-      </p>
-    </div>
-  </div>
-</div>
-
----
-
-## Tech Arsenale-render.vercel.app/api?type=waving&color=6F3AFF&height=200&section=header&text=sh1vam-03&desc=Security%20Architect%20%7C%20Full%20Stack%20Developer&fontSize=80&descSize=25&fontAlignY=35&descAlignY=55&animation=fadeIn&fontColor=fff&stroke=000000&strokeWidth=2"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F3AFF&height=200&section=header&text=sh1vam-03&desc=Security%20Architect%20%7C%20Full%20Stack%20Developer&fontSize=80&descSize=25&fontAlignY=35&descAlignY=55&animation=fadeIn&fontColor=fff&stroke=000000&strokeWidth=2"/>
 
   <br/>
   
@@ -77,13 +63,13 @@
   <!-- Core Stack and Dev Tools Table -->
   <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
     <div style="flex: 1; min-width: 300px; max-width: 600px; background: rgba(111, 58, 255, 0.05); padding: 15px; border-radius: 10px;">
-      <h4 style="margin: 0 0 15px 0; color: #6F3AFF;">Core Stack</h4>
+      <h4 style="margin: 0 0 15px 0; color: #6F3AFF;">🛠️ Core Stack</h4>
       <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
         <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,ts,js,python,html,css,tailwind" height="40" style="max-width: 100%;" />
       </div>
     </div>
     <div style="flex: 1; min-width: 300px; max-width: 600px; background: rgba(111, 58, 255, 0.05); padding: 15px; border-radius: 10px;">
-      <h4 style="margin: 0 0 15px 0; color: #6F3AFF;">Dev Tools</h4>
+      <h4 style="margin: 0 0 15px 0; color: #6F3AFF;">⚙️ Dev Tools</h4>
       <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
         <img src="https://skillicons.dev/icons?i=vscode,git,docker,linux,aws,firebase,vercel,nginx" height="40" style="max-width: 100%;" />
       </div>
@@ -94,7 +80,7 @@
   <!-- Security Tools Table -->
   <table style="background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0;">
     <tr>
-      <th colspan="5" align="center"><b>Security Toolkit</b></th>
+      <th colspan="5" align="center"><b>🔒 Security Toolkit</b></th>
     </tr>
     <tr>
       <td align="center">
@@ -125,7 +111,7 @@
   <!-- Frontend and Backend in one table -->
   <table style="background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; width: 100%;">
     <tr>
-      <th colspan="2" align="center"><b>Full Stack Breakdown</b></th>
+      <th colspan="2" align="center"><b>📊 Full Stack Breakdown</b></th>
     </tr>
     <tr>
       <td align="center" width="50%" style="padding: 15px; background: rgba(111, 58, 255, 0.1); border-radius: 10px;">
@@ -152,7 +138,7 @@
 
 ---
 
-## GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25"/> GitHub Analytics
 
 <div align="center" style="margin: 30px 0;">
   <!-- GitHub Stats Cards -->
@@ -163,21 +149,21 @@
 
   <!-- GitHub Contribution Graph -->
   <div align="center" style="margin: 20px 0;">
-    <h4>Contribution Graph</h4>
+    <h4>🐍 Contribution Graph</h4>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh1vam-03&theme=high-contrast&bg_color=0D1117&color=FFFFFF&line=6F3AFF&point=FFFFFF&area=true&area_color=6F3AFF&hide_border=true" alt="Contribution Graph" />
   </div>
 
   <!-- GitHub Language Stats -->
   <div style="display: flex; justify-content: center; margin: 20px 0;">
     <div style="background: rgba(111, 58, 255, 0.05); padding: 20px; border-radius: 10px; max-width: 500px;">
-      <h4 style="text-align: center; color: #6F3AFF; margin-bottom: 15px;">Most Used Languages</h4>
+      <h4 style="text-align: center; color: #6F3AFF; margin-bottom: 15px;">💻 Most Used Languages</h4>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1vam-03&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=6F3AFF&text_color=FFFFFF&card_width=445" alt="Most Used Languages" />
     </div>
   </div>
 
   <!-- GitHub Trophies -->
   <div style="background: rgba(111, 58, 255, 0.05); padding: 20px; border-radius: 10px; margin: 20px 0;">
-    <h4 style="text-align: center; color: #6F3AFF; margin-bottom: 15px;">GitHub Achievements</h4>
+    <h4 style="text-align: center; color: #6F3AFF; margin-bottom: 15px;">🏆 GitHub Achievements</h4>
     <img src="https://github-profile-trophy.vercel.app/?username=sh1vam-03&theme=onestar&no-frame=true&column=6&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </div>
 </div>
@@ -185,7 +171,7 @@
 
 ---
 
-## Let's Connect
+## <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/connect.gif" width="32"/> Let's Connect
 
 <div align="center" style="background: rgba(111, 58, 255, 0.1); padding: 30px; border-radius: 10px; margin: 30px 0;">
   <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 30px;">
@@ -193,7 +179,7 @@
       <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/connect-animation.gif" width="200" style="border-radius: 10px;"/>
     </div>
     <div>
-      <h3>Let's collaborate and build secure solutions!</h3>
+      <h3>🌟 Let's collaborate and build secure solutions! 🌟</h3>
       <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 20px;">
         <a href="https://www.linkedin.com/in/sh1vam-03-">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
