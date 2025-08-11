@@ -55,45 +55,47 @@
 
 ## <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/skills.gif" width="32"/> Tech Arsenal
 
-### 🛠️ Tech Stack & Development Tools
-<div align="center" style="margin: 10px 0;">
-  <!-- Core Stack and Development Ecosystem in one row -->
-  <div style="display: flex; flex-direction: column; gap: 10px;">
-    <div style="display: flex; align-items: center; gap: 15px; justify-content: center; background: rgba(111, 58, 255, 0.05); padding: 15px; border-radius: 10px;">
-      <span style="font-weight: bold; color: #6F3AFF;">Core Stack:</span>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,ts,js,python,html,css,tailwind" />
-    </div>
-    <div style="display: flex; align-items: center; gap: 15px; justify-content: center; background: rgba(111, 58, 255, 0.05); padding: 15px; border-radius: 10px;">
-      <span style="font-weight: bold; color: #6F3AFF;">Dev Tools:</span>
-      <img src="https://skillicons.dev/icons?i=vscode,git,docker,linux,aws,firebase,vercel,nginx" />
-    </div>
-  </div>
-</div>
-
-### 🔒 Security Toolkit
 <div align="center">
-  <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 15px; margin: 15px 0; max-width: 800px; margin: 0 auto;">
-    <div style="background: rgba(111, 58, 255, 0.1); padding: 12px; border-radius: 8px; text-align: center;">
-      <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/kali.png" width="35"/>
-      <p style="margin: 5px 0;">Kali Linux</p>
-    </div>
-    <div style="background: rgba(111, 58, 255, 0.1); padding: 12px; border-radius: 8px; text-align: center;">
-      <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/burp.png" width="35"/>
-      <p style="margin: 5px 0;">Burp Suite</p>
-    </div>
-    <div style="background: rgba(111, 58, 255, 0.1); padding: 12px; border-radius: 8px; text-align: center;">
-      <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/metasploit.png" width="35"/>
-      <p style="margin: 5px 0;">Metasploit</p>
-    </div>
-    <div style="background: rgba(111, 58, 255, 0.1); padding: 12px; border-radius: 8px; text-align: center;">
-      <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/wireshark.png" width="35"/>
-      <p style="margin: 5px 0;">Wireshark</p>
-    </div>
-    <div style="background: rgba(111, 58, 255, 0.1); padding: 12px; border-radius: 8px; text-align: center;">
-      <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/nmap.png" width="35"/>
-      <p style="margin: 5px 0;">Nmap</p>
-    </div>
-  </div>
+  <!-- Languages and Tools Table -->
+  <table style="background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0;">
+    <tr>
+      <td align="center"><b>🛠️ Core Stack</b></td>
+      <td><img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,ts,js,python,html,css,tailwind" /></td>
+    </tr>
+    <tr>
+      <td align="center"><b>⚙️ Dev Tools</b></td>
+      <td><img src="https://skillicons.dev/icons?i=vscode,git,docker,linux,aws,firebase,vercel,nginx" /></td>
+    </tr>
+  </table>
+
+  <!-- Security Tools Table -->
+  <table style="background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0;">
+    <tr>
+      <th colspan="5" align="center"><b>🔒 Security Toolkit</b></th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/><br/>
+        <sub>Kali Linux</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/><br/>
+        <sub>Burp Suite</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Metasploit-2A3957?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/><br/>
+        <sub>Metasploit</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/><br/>
+        <sub>Wireshark</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/><br/>
+        <sub>Nmap</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ### 📊 Full Stack Breakdown
