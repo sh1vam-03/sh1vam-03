@@ -139,8 +139,14 @@
         </div>
       </div>
     </div>
-    
-    <!-- Project 2 -->
+
+    <div>
+        <div>
+    <div>
+    <div>
+    <div>
+
+    <!-- Project 2 -
     <div style="background: rgba(111, 58, 255, 0.05); padding: 20px; border-radius: 10px; border-top: 4px solid #6F3AFF;">
       <h3 align="center">StegaPic</h3>
       <div align="center">
