@@ -1,62 +1,69 @@
-<h1 align="center">Hi there, I'm Shivam! 👋</h1>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Shivam</h1>
+<h3 align="center">🔐 Security Enthusiast | 🐍 Python Developer | ⚡ Automation Lover</h3>
+
 <p align="center">
-  🔭 Exploring automation, steganography, and Python-powered tools<br>
-  🌱 Passionate about security, creative scripting, and open-source development
+  <img src="https://komarev.com/ghpvc/?username=sh1vam-03&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
 
 ---
 
-##  Featured Projects
-
-### 1. **WA-Spam** – WhatsApp Automation Tool
-A Python-based terminal tool offering auto-generated or custom message spamming capabilities. Includes counting, random, and nonsensical message modes.  
-**⚠ Disclaimer**: For educational purposes only—spamming without consent is unethical and illegal.  
-Highlights:
-- User- or auto-typed message options  
-- Multiple automation modes (counting, random, meaningless)  
-- Easy setup via `requirements.txt` :contentReference[oaicite:0]{index=0}
+## 🚀 About Me  
+💻 I’m a passionate developer focused on **Security Tools**, **Automation**, and **Steganography**.  
+🔍 I love solving **real-world problems** with **creative coding solutions**.  
+📚 Currently expanding my skills in **Cybersecurity & Ethical Hacking**.  
+⚡ Fun fact: I enjoy building tools that *look simple but do powerful things*.
 
 ---
 
-### 2. **StegaPic** – LSB Image Steganography
-Hide or extract messages (or files, with caution) in images using least significant bit encoding. Optional password protection adds a layer of security.  
-Highlights:
-- Embed text or files into images  
-- Support for password-protected extraction  
-- Terminal-based menu for ease of use :contentReference[oaicite:1]{index=1}
+## 🛠 Skills & Tools  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000.svg?&style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-2E3440.svg?&style=for-the-badge&logo=datadog&logoColor=white" />
+</p>
 
 ---
 
-### 3. **gitman** – GitHub Dorking Helper
-A CLI utility that creates GitHub search URLs for prompts like "password", "secret", or "private". Ideal for penetration testers, bug bounty hunters, and ethical security researchers.  
-Highlights:
-- Auto-generates refined search queries excluding false positives like “test” or “example”  
-- Easy CLI integration for recon workflows :contentReference[oaicite:2]{index=2}
+## 📌 Featured Projects  
+
+### 🔹 [WA-Spam](https://github.com/sh1vam-03/WhatsApp-Spammer)  
+Automates WhatsApp messaging for testing & educational purposes.  
+- Multiple spam modes (counting, random, nonsense)  
+- Easy setup & usage  
+
+### 🔹 [StegaPic](https://github.com/sh1vam-03/LSB-Steganography-StegaPic)  
+Hide and extract messages or files from images using LSB technique.  
+- Password-protected extraction  
+- Terminal-based menu  
+
+### 🔹 [Gitman](https://github.com/sh1vam-03/gitman)  
+CLI tool to generate GitHub search queries for security research.  
+- Refines searches, removes false positives  
+- Great for ethical hacking & recon  
 
 ---
 
-##  Additional Creations
-Explore more of my work:
-- **Python-Rock-Paper-Scissors** – A classic CLI game built in Python  
-- **Other repos** — Including concept libraries and automation scripts :contentReference[oaicite:3]{index=3}
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sh1vam-03&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh1vam-03&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160" />
+</p>
 
 ---
 
-##  Connect with Me
-| Platform        | Link |
-|-----------------|------|
-| LinkedIn        | [in/sh1vam-03](https://www.linkedin.com/in/sh1vam-03-) |
-| TryHackMe       | [sh1vam.03](https://tryhackme.com/p/sh1vam.03) |
-| Instagram       | [@sh1vam_03](https://www.instagram.com/sh1vam_03) |
+## 📈 GitHub Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh1vam-03&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
-##  Why Visit My Profile?
-- **Clear structure** – Projects presented with purpose, features, and setup guidance  
-- **Visual appeal** – Use headings, badges, and emojis for a modern, welcoming vibe  
-- **Action-focused** – Encourages exploration, collaboration, and learning
-
----
-
-Feel free to copy this template directly into your profile or repo README, and tweak it with your personal bio, contribution instructions, or roadmap. Let me know if you'd like help adding badges or customizing visuals!
-::contentReference[oaicite:4]{index=4}
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sh1vam-03-"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/sh1vam.03"><img src="https://img.shields.io/badge/TryHackMe-1f1f1f.svg?&style=for-the-badge&logo=tryhackme&logoColor=red" /></a>
+  <a href="https://www.instagram.com/sh1vam_03"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
