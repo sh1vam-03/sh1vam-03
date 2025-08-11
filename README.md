@@ -142,23 +142,13 @@
   </table>
 
   <!-- GitHub Contribution Graph -->
-  <div style="margin: 20px 0; width: 100%; overflow-x: auto;">
-    <h4>Contribution Graph</h4>
+  <table> <td>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh1vam-03&theme=high-contrast&bg_color=0D1117&color=FFFFFF&line=6F3AFF&point=FFFFFF&area=true&area_color=6F3AFF&hide_border=true" alt="Contribution Graph" style="max-width: 100%;"/>
-  </div>
-
-  <!-- GitHub Language Stats -->
-  <div style="width: 100%; background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0;">
-    <table style="width: 100%; border-collapse: collapse;">
-      <tr>
-        <td style="padding: 20px; text-align: center;">
-          <h4 style="color: #6F3AFF; margin-bottom: 15px;">Most Used Languages</h4>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1vam-03&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=6F3AFF&text_color=FFFFFF" alt="Most Used Languages" style="max-width: 100%;"/>
-        </td>
-      </tr>
-    </table>
-  </div>
-
+</td><td>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1vam-03&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=6F3AFF&text_color=FFFFFF" alt="Most Used Languages" style="width: 100%;"/>
+  
+  </td>
+</table>
   <!-- GitHub Trophies -->
   <div style="width: 100%; background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; overflow-x: auto;">
     <table style="width: 100%; border-collapse: collapse;">
