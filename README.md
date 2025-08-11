@@ -75,17 +75,17 @@
 
 <div align="center">
   <!-- Core Stack and Dev Tools Table -->
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px; margin: 15px auto; max-width: 1200px; padding: 0 10px;">
-    <div style="background: rgba(111, 58, 255, 0.05); padding: 15px; border-radius: 10px;">
-      <h4 style="margin: 0 0 15px 0; color: #6F3AFF; font-size: clamp(16px, 2.5vw, 20px);">Core Stack</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,ts,js,python,html,css,tailwind" style="height: clamp(30px, 5vw, 40px); max-width: 100%;" />
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
+    <div style="flex: 1; min-width: 300px; max-width: 600px; background: rgba(111, 58, 255, 0.05); padding: 15px; border-radius: 10px;">
+      <h4 style="margin: 0 0 15px 0; color: #6F3AFF;">Core Stack</h4>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,ts,js,python,html,css,tailwind" height="40" style="max-width: 100%;" />
       </div>
     </div>
-    <div style="background: rgba(111, 58, 255, 0.05); padding: 15px; border-radius: 10px;">
-      <h4 style="margin: 0 0 15px 0; color: #6F3AFF; font-size: clamp(16px, 2.5vw, 20px);">Dev Tools</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-        <img src="https://skillicons.dev/icons?i=vscode,git,docker,linux,aws,firebase,vercel,nginx" style="height: clamp(30px, 5vw, 40px); max-width: 100%;" />
+    <div style="flex: 1; min-width: 300px; max-width: 600px; background: rgba(111, 58, 255, 0.05); padding: 15px; border-radius: 10px;">
+      <h4 style="margin: 0 0 15px 0; color: #6F3AFF;">Dev Tools</h4>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+        <img src="https://skillicons.dev/icons?i=vscode,git,docker,linux,aws,firebase,vercel,nginx" height="40" style="max-width: 100%;" />
       </div>
     </div>
   </div>
