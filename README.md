@@ -1,5 +1,60 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/about.gif" width="32"/> About Me
+  <img src="https://raw.githubusercontent.com/s## <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/about.gif" width="32"/> Who Am I?
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img align="center" src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/code-thinking.gif" width="300"/>
+      </td>
+      <td>
+        <h3 align="left">🎯 Professional Summary</h3>
+        <ul>
+          <li>🔐 Security Expert & Full Stack Developer</li>
+          <li>🛠️ Building secure web applications & tools</li>
+          <li>🌐 MERN Stack specialist</li>
+          <li>🎨 UI/UX enthusiast</li>
+        </ul>
+        <h3 align="left">💡 Current Focus</h3>
+        <ul>
+          <li>📚 Advanced Web Security</li>
+          <li>🤖 Process Automation</li>
+          <li>🔍 Penetration Testing</li>
+          <li>🎯 Zero-day Research</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Web%20Security-red?style=for-the-badge&logo=security&logoColor=white" />
+        <br/>
+        <sub>Primary Focus</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Full%20Stack-purple?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+        <br/>
+        <sub>Development</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Automation-blue?style=for-the-badge&logo=robot&logoColor=white" />
+        <br/>
+        <sub>Efficiency</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Open%20Source-green?style=for-the-badge&logo=github&logoColor=white" />
+        <br/>
+        <sub>Contribution</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---3/sh1vam-03/main/assets/about.gif" width="32"/> About Me
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/line.gif" width="100%" height="2px">
@@ -22,12 +77,25 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=sh1vam-03&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F3AFF&height=190&section=header&text=sh1vam-03&desc=Security%20Expert%20%7C%20Full%20Stack%20Developer&fontSize=70&descSize=20&fontAlignY=30&descAlignY=50&animation=fadeIn&fontColor=fff"/>
+
+  <br/>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=6F3AFF&center=true&vCenter=true&width=500&height=70&lines=Crafting+Digital+Solutions;Breaking+%26+Building+Security;Full+Stack+Mastery;Ethical+Hacking+Expert" alt="Typing SVG" />
+  
+  <br/>
+  
+  <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/code.gif" width="40" />
+  <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/shield.gif" width="40" />
+  <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/rocket.gif" width="40" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=6F3AFF&center=true&vCenter=true&width=500&height=70&lines=Hi+There!;I'm+sh1vam-03!;Full+Stack+Developer;Security+Expert;Automation+Specialist" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sh1vam-03&label=Profile%20Views&color=6F3AFF&style=for-the-badge" alt="profile views" />
+  <a href="https://github.com/sh1vam-03?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sh1vam-03?color=6F3AFF&labelColor=494949&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+  </a>
+</div>
 
 <div align="center">
   <p>
@@ -61,46 +129,73 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/skills.gif" width="32"/> Skills & Technologies
+## <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/skills.gif" width="32"/> Tech Arsenal
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/main/assets/line.gif" width="100%" height="2px">
-</div>
+  <h3>🎯 Main Technologies</h3>
+  
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,mongodb,postgresql" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,html,css,bash" />
+  
+  <h3>🛡️ Security Stack</h3>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+        <br/>
+        <sub>Primary Platform</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=buffer&logoColor=white" />
+        <br/>
+        <sub>Web Testing</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white" />
+        <br/>
+        <sub>Exploitation</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+        <br/>
+        <sub>Network Analysis</sub>
+      </td>
+    </tr>
+  </table>
 
-<details>
-<summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20"/> Programming & Web Technologies</summary>
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</div>
-</details>
+  <h3>🚀 Development Environment</h3>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,git,docker,linux" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=aws,firebase,vercel,nginx" />
+  </div>
 
-<details>
-<summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="20" height="20"/> Security & Tools</summary>
-<div align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=buffer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-2E3440.svg?&style=for-the-badge&logo=datadog&logoColor=white" />
-</div>
-</details>
+  <h3>💼 Full Stack Expertise</h3>
+  <table align="center">
+    <tr>
+      <td align="center" width="300px">
+        <h4>Frontend</h4>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </td>
+      <td align="center" width="300px">
+        <h4>Backend</h4>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 
-<details>
-<summary>⚙️ DevOps & Tools</summary>
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000.svg?&style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <h3>🔧 Tools & Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=redux,graphql,prisma,jest" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=sass,materialui,figma,postman" />
 </div>
-</details>
 
 ---
 
@@ -163,22 +258,29 @@ Sophisticated GitHub search query generator for security research.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25"/> GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sh1vam-03&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160" />
-  <img src="https://streak-stats.demolab.com?user=sh1vam-03&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160" />
-</p>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25"/> GitHub Analytics
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Graph" width="25" height="25"/> GitHub Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh1vam-03&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-## 🏆 Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sh1vam-03&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true" alt="Trophy" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true"/>
+  
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=sh1vam-03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6F3AFF&icon_color=6F3AFF" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh1vam-03&theme=dark&hide_border=true&background=0D1117&stroke=6F3AFF&ring=6F3AFF&fire=FF8800" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh1vam-03&bg_color=0D1117&color=6F3AFF&line=6F3AFF&point=FFFFFF&hide_border=true&title_color=6F3AFF" alt="GitHub Activity Graph" />
+
+  <br/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=sh1vam-03&theme=discord&no-frame=true&row=1&margin-w=20&no-bg=true" alt="Trophy" />
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" alt="Target" width="25" height="25"/> Current Focus
