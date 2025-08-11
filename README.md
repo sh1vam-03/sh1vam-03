@@ -176,10 +176,14 @@ Advanced GitHub reconnaissance tool for security professionals.
 <div align="center" style="margin: 30px 0;">
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sh1vam-03&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6F3AFF&icon_color=6F3AFF&text_color=FFFFFF" alt="GitHub Stats" />
-    <img src="https://streak-stats.demolab.com/?user=sh1vam-03&theme=radical&hide_border=true&background=0D1117&stroke=6F3AFF&ring=6F3AFF&fire=FF8800&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6F3AFF" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=sh1vam-03&theme=midnight-purple&hide_border=true&background=0D1117&stroke=6F3AFF&ring=6F3AFF&fire=FF8800&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6F3AFF" alt="GitHub Streak" />
   </div>
 
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sh1vam-03&bg_color=0D1117&color=6F3AFF&line=6F3AFF&point=FFFFFF&hide_border=true&title_color=6F3AFF&area=true&area_color=6F3AFF" alt="GitHub Activity Graph" width="100%" style="margin-top: 20px;"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/output/github-contribution-grid-snake.svg" />
+  </picture>
 
   <div style="margin: 20px 0;">
     <img src="https://github-profile-trophy.vercel.app/?username=sh1vam-03&theme=radical&no-frame=true&row=1&margin-w=20&no-bg=true&title=MultiLanguage,Commits,Repositories,PullRequest" alt="Trophy" />
