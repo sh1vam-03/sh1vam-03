@@ -114,7 +114,7 @@
       </td>
       <td style="padding: 15px; background: rgba(111, 58, 255, 0.1); border-radius: 10px; text-align: center;">
         <h4 style="margin: 0 0 10px 0; text-align: center; color: #6F3AFF;">Backend</h4>
-        <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+        <div style="display: flex; flex-wrap; wrap; gap: 8px; justify-content: center;">
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="max-width: 100%;" alt="Node.js"/>
           <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" style="max-width: 100%;" alt="Express.js"/>
           <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="max-width: 100%;" alt="MongoDB"/>
@@ -135,7 +135,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=sh1vam-03&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=6F3AFF&icon_color=6F3AFF&text_color=FFFFFF&ring_color=6F3AFF" alt="GitHub Stats" style="max-width: 100%;"/>
       </td>
       <td style="padding: 10px;">
-        <img src="https://streak-stats.demolab.com?user=sh1vam-03&theme=dark&hide_border=true&background=0D1117&stroke=6F3AFF&ring=6F3AFF&fire=FF8800&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6F3AFF&dates=888888" alt="GitHub Streak" style="max-width: 100%;"/>
+        <img src="https://streak-stats.demolab.com/?user=sh1vam-03&theme=dark&hide_border=true&background=0D1117&stroke=6F3AFF&ring=6F3AFF&fire=FF8800&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6F3AFF&dates=888888" alt="GitHub Streak" style="max-width: 100%;"/>
       </td>
     </tr>
   </table>
@@ -158,7 +158,7 @@
       <tr>
         <td style="padding: 20px; text-align: center;">
           <h4 style="color: #6F3AFF; margin-bottom: 15px;">GitHub Achievements</h4>
-          <img src="https://github-profile-trophy.vercel.app/?username=sh1vam-03&theme=onestar&no-frame=true&column=6&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies" style="max-width: 100%;"/>
+          <img src="https://github-profile-trophy.vercel.app/?username=sh1vam-03&theme=onedark&no-frame=true&column=7&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies" style="max-width: 100%;"/>
         </td>
       </tr>
     </table>
