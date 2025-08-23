@@ -173,11 +173,11 @@
 ## Let's Connect
 
 <div align="center" style="background: rgba(111, 58, 255, 0.1); padding: 30px; border-radius: 10px; margin: 30px auto; max-width: 1000px; width: calc(100% - 30px);">
-  <table style="width: 100%; border-collapse: collapse;">
+  <table width="1000" >
     <tr>
       <td style="padding: 20px; text-align: center; vertical-align: middle;">
         <h3 style="margin: 0 0 20px 0; color: #6F3AFF;">Let's collaborate and build secure solutions!</h3>
-        <div width="1000" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+        <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
           <a href="https://www.linkedin.com/in/sh1vam-03-">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;"/>
           </a>
