@@ -137,7 +137,7 @@
     </tr>
     <tr>
       <td style="padding: 10px;">
-        <img src="https://streak-stats.demolab.com/?user=sh1vam-03&theme=dark&hide_border=true&background=0D1117&stroke=6F3AFF&ring=6F3AFF&fire=FF8800&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6F3AFF&dates=888888" alt="GitHub Streak" width="1000"/>
+        <img src="https://streak-stats.demolab.com/?user=sh1vam-03&theme=dark&hide_border=true&background=0D1117&ring=6F3AFF&fire=FF8800&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6F3AFF&dates=888888" alt="GitHub Streak" width="1000"/>
       </td>
     </tr>
   </table>
@@ -173,7 +173,7 @@
 ## Let's Connect
 
 <div align="center" style="background: rgba(111, 58, 255, 0.1); padding: 30px; border-radius: 10px; margin: 30px auto; max-width: 1000px; width: calc(100% - 30px);">
-  <table width="1000" >
+  <table style="width: 100%; border-collapse: collapse;">
     <tr>
       <td style="padding: 20px; text-align: center; vertical-align: middle;">
         <h3 style="margin: 0 0 20px 0; color: #6F3AFF;">Let's collaborate and build secure solutions!</h3>
