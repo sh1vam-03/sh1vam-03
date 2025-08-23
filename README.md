@@ -159,7 +159,7 @@
         <td style="padding: 20px; text-align: center;">
           <h4 style="color: #6F3AFF; margin-bottom: 15px;">GitHub Achievements</h4>
           <!-- Fixed GitHub Trophies URL -->
-          <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=sh1vam-03&theme=tokyonight&no-frame=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" style="max-width: 100%;"/>
+          <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=sh1vam-03&theme=tokyonight&no-frame=true&column=4&margin-w=50&margin-h=50" alt="GitHub Trophies" style="max-width: 100%;"/>
         </td>
       </tr>
     </table>
@@ -187,7 +187,7 @@
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="max-width: 100%;"/>
           </a>
           <a href="https://www.instagram.com/sh1vam.03">
-            <img src="https://img.shields.io/badge/Instagram-F4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="max-width: 100%;"/>
+            <img src="https://img.shields.io/badge/Instagram-6F3AFF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="max-width: 100%;"/>
           </a>
           <a href="mailto:your-email@example.com">
             <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="max-width: 100%;"/>
