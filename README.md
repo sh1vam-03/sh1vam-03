@@ -137,7 +137,7 @@
     </tr>
     <tr>
       <td style="padding: 10px;">
-        <img src="https://streak-stats.demolab.com/?user=sh1vam-03&theme=dark&hide_border=true&background=0D1117&ring=6F3AFF&fire=FF8800&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6F3AFF&dates=888888" alt="GitHub Streak" width="1000"/>
+        <img src="https://streak-stats.demolab.com/?user=sh1vam-03&theme=dark&hide_border=true&background=0D1117&stroke=6F3AFF&ring=6F3AFF&fire=FF8800&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6F3AFF&dates=888888" alt="GitHub Streak" width="1000"/>
       </td>
     </tr>
   </table>
