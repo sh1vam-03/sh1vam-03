@@ -134,6 +134,8 @@
       <td style="padding: 10px;">
         <img src="https://github-readme-stats.vercel.app/api?username=sh1vam-03&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=6F3AFF&icon_color=6F3AFF&text_color=FFFFFF&ring_color=6F3AFF" alt="GitHub Stats" style="max-width: 100%;"/>
       </td>
+    </tr>
+    <tr>
       <td style="padding: 10px;">
         <img src="https://streak-stats.demolab.com/?user=sh1vam-03&theme=dark&hide_border=true&background=0D1117&stroke=6F3AFF&ring=6F3AFF&fire=FF8800&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6F3AFF&dates=888888" alt="GitHub Streak" style="max-width: 100%;"/>
       </td>
@@ -146,6 +148,8 @@
       <td style="padding: 10px; width: 65%;">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh1vam-03&theme=high-contrast&bg_color=0D1117&color=FFFFFF&line=6F3AFF&point=FFFFFF&area=true&area_color=6F3AFF&hide_border=true" alt="Contribution Graph" style="max-width: 100%;"/>
       </td>
+    </tr>
+    <tr>
       <td style="padding: 10px; width: 35%;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1vam-03&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=6F3AFF&text_color=FFFFFF" alt="Most Used Languages" style="width: 100%;"/>
       </td>
