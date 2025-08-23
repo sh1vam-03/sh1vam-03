@@ -54,7 +54,7 @@
   <div style="width: 100%; background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; overflow-x: auto;">
     <table style="width: 100%; border-collapse: collapse; min-width: 600px;">
       <tr>
-        <th colspan="5" style="padding: 15px; text-align: center;"><b>Security Toolkit</b></th>
+        <th colspan="5" style="padding: 15px; text-align: center; color: #6F3AFF;"><b>Security Toolkit</b></th>
       </tr>
       <tr>
         <td style="padding: 10px; text-align: center;">
@@ -79,33 +79,32 @@
   <!-- Core Stack and Dev Tools Table -->
   <table style="width: 100%; background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; border-collapse: collapse;">
     <tr>
-      <th colspan="2" style="padding: 15px; text-align: center;"><b>Full Stack Breakdown</b></th>
+      <th colspan="2" style="padding: 15px; text-align: center; color: #6F3AFF;"><b>Development Stack</b></th>
     </tr>
     <tr>
       <td style="padding: 15px; background: rgba(111, 58, 255, 0.1); border-radius: 10px; text-align: center;">
-        <h4 style="margin: 0 0 10px 0; text-align: center;">Core Stack</h4>
+        <h4 style="margin: 0 0 10px 0; text-align: center; color: #6F3AFF;">Core Technologies</h4>
         <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
           <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,ts,js,python,html,css,tailwind" height="40" style="max-width: 100%;" alt="Core Stack"/>
         </div>
       </td>
       <td style="padding: 15px; background: rgba(111, 58, 255, 0.1); border-radius: 10px; text-align: center;">
-        <h4 style="margin: 0 0 10px 0; text-align: center;">Dev Tools</h4>
+        <h4 style="margin: 0 0 10px 0; text-align: center; color: #6F3AFF;">Dev Tools</h4>
         <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
           <img src="https://skillicons.dev/icons?i=vscode,git,docker,linux,aws,firebase,vercel,nginx" height="40" style="max-width: 100%;" alt="Dev Tools"/>
         </div>
       </td>
     </tr>
   </table>
-</div>
 
-  <!-- Full Stack Breakdown -->
+  <!-- Frontend/Backend Breakdown -->
   <table style="width: 100%; background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; border-collapse: collapse;">
     <tr>
-      <th colspan="2" style="padding: 15px; text-align: center;"><b>Full Stack Breakdown</b></th>
+      <th colspan="2" style="padding: 15px; text-align: center; color: #6F3AFF;"><b>Full Stack Breakdown</b></th>
     </tr>
     <tr>
       <td style="padding: 15px; background: rgba(111, 58, 255, 0.1); border-radius: 10px; text-align: center;">
-        <h4 style="margin: 0 0 10px 0; text-align: center;">Frontend</h4>
+        <h4 style="margin: 0 0 10px 0; text-align: center; color: #6F3AFF;">Frontend</h4>
         <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
           <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width: 100%;" alt="React"/>
           <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" style="max-width: 100%;" alt="Next.js"/>
@@ -114,7 +113,7 @@
         </div>
       </td>
       <td style="padding: 15px; background: rgba(111, 58, 255, 0.1); border-radius: 10px; text-align: center;">
-        <h4 style="margin: 0 0 10px 0; text-align: center;">Backend</h4>
+        <h4 style="margin: 0 0 10px 0; text-align: center; color: #6F3AFF;">Backend</h4>
         <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="max-width: 100%;" alt="Node.js"/>
           <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" style="max-width: 100%;" alt="Express.js"/>
@@ -141,14 +140,18 @@
     </tr>
   </table>
 
-  <!-- GitHub Contribution Graph -->
-  <table> <td>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh1vam-03&theme=high-contrast&bg_color=0D1117&color=FFFFFF&line=6F3AFF&point=FFFFFF&area=true&area_color=6F3AFF&hide_border=true" alt="Contribution Graph" style="max-width: 100%;"/>
-</td><td>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1vam-03&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=6F3AFF&text_color=FFFFFF" alt="Most Used Languages" style="width: 100%;"/>
+  <!-- GitHub Contribution Graph and Languages -->
+  <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <tr>
+      <td style="padding: 10px; width: 65%;">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh1vam-03&theme=high-contrast&bg_color=0D1117&color=FFFFFF&line=6F3AFF&point=FFFFFF&area=true&area_color=6F3AFF&hide_border=true" alt="Contribution Graph" style="max-width: 100%;"/>
+      </td>
+      <td style="padding: 10px; width: 35%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1vam-03&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=6F3AFF&text_color=FFFFFF" alt="Most Used Languages" style="width: 100%;"/>
+      </td>
+    </tr>
+  </table>
   
-  </td>
-</table>
   <!-- GitHub Trophies -->
   <div style="width: 100%; background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; overflow-x: auto;">
     <table style="width: 100%; border-collapse: collapse;">
@@ -168,7 +171,7 @@
   <table style="width: 100%; border-collapse: collapse;">
     <tr>
       <td style="padding: 20px; text-align: center; vertical-align: middle;">
-        <h3 style="margin: 0 0 20px 0;">Let's collaborate and build secure solutions!</h3>
+        <h3 style="margin: 0 0 20px 0; color: #6F3AFF;">Let's collaborate and build secure solutions!</h3>
         <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
           <a href="https://www.linkedin.com/in/sh1vam-03-">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;"/>
