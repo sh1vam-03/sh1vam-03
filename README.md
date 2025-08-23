@@ -172,8 +172,8 @@
 
 ## Let's Connect
 
-<div align="center" style="background: rgba(111, 58, 255, 0.1); padding: 30px; border-radius: 10px; margin: 30px auto; max-width: 1000px; width: calc(100% - 30px);">
-  <table width="1000" style="width: 100%; border-collapse: collapse;">
+<div align="center" width="1000" style="background: rgba(111, 58, 255, 0.1); padding: 30px; border-radius: 10px; margin: 30px auto; max-width: 1000px; width: calc(100% - 30px);">
+  <table style="width: 100%; border-collapse: collapse;">
     <tr>
       <td style="padding: 20px; text-align: center; vertical-align: middle;">
         <h3 style="margin: 0 0 20px 0; color: #6F3AFF;">Let's collaborate and build secure solutions!</h3>
