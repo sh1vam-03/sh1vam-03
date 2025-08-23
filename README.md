@@ -159,7 +159,7 @@
         <td style="padding: 20px; text-align: center;">
           <h4 style="color: #6F3AFF; margin-bottom: 15px;">GitHub Achievements</h4>
           <!-- Fixed GitHub Trophies URL -->
-          <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=sh1vam-03&theme=tokyonight&no-frame=true&column=5&margin-w=50&margin-h=50" alt="GitHub Trophies" style="max-width: 100%;"/>
+          <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=sh1vam-03&theme=tokyonight&no-frame=false&column=5&margin-w=500&margin-h=500" alt="GitHub Trophies" style="max-width: 100%;"/>
         </td>
       </tr>
     </table>
