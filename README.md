@@ -114,7 +114,7 @@
       </td>
       <td style="padding: 15px; background: rgba(111, 58, 255, 0.1); border-radius: 10px; text-align: center;">
         <h4 style="margin: 0 0 10px 0; text-align: center; color: #6F3AFF;">Backend</h4>
-        <div style="display: flex; flex-wrap; wrap; gap: 8px; justify-content: center;">
+        <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="max-width: 100%;" alt="Node.js"/>
           <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" style="max-width: 100%;" alt="Express.js"/>
           <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="max-width: 100%;" alt="MongoDB"/>
@@ -158,7 +158,7 @@
       <tr>
         <td style="padding: 20px; text-align: center;">
           <h4 style="color: #6F3AFF; margin-bottom: 15px;">GitHub Achievements</h4>
-          <img src="https://github-profile-trophy.vercel.app/?username=sh1vam-03&theme=onedark&no-frame=true&column=7&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies" style="max-width: 100%;"/>
+          <img src="https://github-profile-trophy.vercel.app/?username=sh1vam-03&theme=matrix&no-frame=true&column=7" alt="GitHub Trophies" style="max-width: 100%;"/>
         </td>
       </tr>
     </table>
