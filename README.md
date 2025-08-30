@@ -19,9 +19,7 @@
         <img src="https://komarev.com/ghpvc/?username=sh1vam-03&label=Profile%20Views&color=6F3AFF&style=for-the-badge&labelColor=1A1A1A" alt="profile views" style="max-width: 100%;"/>
       </td>
       <td style="padding: 10px; text-align: center;">
-        <a href="https://github.com/sh1vam-03?tab=repositories">
-          <img alt="repositories" title="My Repositories" src="https://custom-icon-badges.demolab.com/github/stars/sh1vam-03?color=6F3AFF&labelColor=1A1A1A&style=for-the-badge&logo=repo&label=Stars" style="max-width: 100%;"/>
-        </a>
+          <img alt="stars" title="Earned Stars" src="https://img.shields.io/github/stars/sh1vam-03?affiliations=OWNER&color=6F3AFF&style=for-the-badge&logo=github&label=Stars" style="max-width: 100%;"/>
       </td>
     </tr>
   </table>
