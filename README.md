@@ -187,7 +187,7 @@
       <td style="padding: 20px; text-align: center; vertical-align: middle;">
         <h3 style="margin: 0 0 20px 0; color: #6F3AFF;">Let's collaborate and build secure solutions!</h3>
         <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-          <a href="https://www.linkedin.com/in/sh1vam-03-">
+          <a href="https://www.linkedin.com/in/sh1vam~03">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;"/>
           </a>
           <a href="https://tryhackme.com/p/sh1vam.03">
@@ -207,7 +207,6 @@
     </tr>
   </table>
 </div>
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F3AFF&height=120&section=footer&animation=fadeIn&stroke=000000&strokeWidth=2" style="max-width: 100%;"/>
 </div>
