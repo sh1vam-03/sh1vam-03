@@ -11,17 +11,15 @@
   <table style="width: 100%; max-width: 800px; margin: 0 auto; border-collapse: collapse;">
     <tr>
       <td style="padding: 10px; text-align: center;">
+        <img alt="Views" title="Profile Views" src="https://komarev.com/ghpvc/?username=sh1vam-03&label=Profile%20Views&color=6F3AFF&style=for-the-badge&labelColor=1A1A1A" alt="profile views" style="max-width: 100%;"/>
+      </td>
+      <td style="padding: 10px; text-align: center;">
         <a href="https://github.com/sh1vam-03?tab=followers">
           <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sh1vam-03?color=6F3AFF&labelColor=1A1A1A&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" style="max-width: 100%;"/>
         </a>
       </td>
       <td style="padding: 10px; text-align: center;">
-        <img src="https://komarev.com/ghpvc/?username=sh1vam-03&label=Profile%20Views&color=6F3AFF&style=for-the-badge&labelColor=1A1A1A" alt="profile views" style="max-width: 100%;"/>
-      </td>
-      <td style="padding: 10px; text-align: center;">
-        <a href="https://github.com/sh1vam-03?tab=repositories">
-          <img alt="repositories" title="My Repositories" src="https://custom-icon-badges.demolab.com/github/stars/sh1vam-03?color=6F3AFF&labelColor=1A1A1A&style=for-the-badge&logo=repo&label=Stars" style="max-width: 100%;"/>
-        </a>
+          <img alt="stars" title="Earned Stars" src="https://img.shields.io/github/stars/sh1vam-03?affiliations=OWNER&color=6F3AFF&style=for-the-badge&logo=github&label=Stars" style="max-width: 100%;"/>
       </td>
     </tr>
   </table>
@@ -190,10 +188,7 @@
           <a href="https://github.com/sh1vam-03">
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="max-width: 100%;"/>
           </a>
-          <a href="https://www.instagram.com/sh1vam.03">
-            <img src="https://img.shields.io/badge/Instagram-6F3AFF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="max-width: 100%;"/>
-          </a>
-          <a href="mailto:your-email@example.com">
+          <a href="mailto: balaji030204@gmail.com">
             <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="max-width: 100%;"/>
           </a>
         </div>

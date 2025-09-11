@@ -19,8 +19,9 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          
+      - uses: actions/upload-artifact@v3
         with:
           target_branch: output
           build_dir: dist
