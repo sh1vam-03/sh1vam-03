@@ -44,6 +44,8 @@
   </table>
 </div>
 
+## [Visit my Portfolio](https://sh1vam-03.github.io/portfolio)
+### [Portfolio Preview] (https://raw.githubusercontent.com/sh1vam-03/portfolio/refs/heads/main/images/Preview/Portfolio.png)
 ## Tech Arsenal
 
 <div align="center" style="margin: 30px auto; max-width: 1200px; width: calc(100% - 30px); padding: 0 15px;">
