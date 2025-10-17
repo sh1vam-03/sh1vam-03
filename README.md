@@ -180,7 +180,7 @@
 </div>
 
 ## [Visit my Portfolio](https://sh1vam-03.github.io/portfolio)
-![Portfolio Preview](https://raw.githubusercontent.com/sh1vam-03/portfolio/refs/heads/main/images/Preview/Portfolio.png)
+![Portfolio Preview](https://github.com/user-attachments/assets/bc3cf9af-ad02-4c73-a9cc-88624c937474)
 ## Let's Connect
 
 <div align="center" style="background: rgba(111, 58, 255, 0.1); padding: 30px; border-radius: 10px; margin: 30px auto; max-width: 1000px; width: calc(100% - 30px);">
