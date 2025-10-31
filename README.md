@@ -151,12 +151,16 @@
       </td>
     </tr>
           <!-- GitHub Contribution Languages -->
+<tr>
       <td style="padding: 10px; width: 35%;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1vam-03&layout=compact&hide_border=true&title_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Most Used Languages" width="1000"/>
       </td>
+</tr>
+<tr>
        <td style="padding: 10px; width: 35%;">
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs" alt="Most Used Languages" width="1000"/>
       </td>
+</tr>
   </table>
   <!-- GitHub Trophies - FIXED SECTION -->
   <div style="width: 100%; background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; overflow-x: auto;">
