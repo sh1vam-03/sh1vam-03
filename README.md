@@ -130,7 +130,7 @@
   <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
     <tr>
       <td style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=sh1vam-03&show_icons=true&theme=dark" alt="GitHub Stats" width="1000"/>
+        <img src="https://gh-readme-profile.vercel.app/api?username=sh1vam-03&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="GitHub Stats" width="1000"/>
       </td>
     </tr>
     <tr>
@@ -144,13 +144,19 @@
               <!-- GitHub Contribution Languages -->
     <tr>
       <td style="padding: 10px; width: 35%;">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh1vam-03&bg_color=0D1117&color=58a6ff&line=58a6ff&point=FFFFFF&hide_border=true" alt="Most Used Languages" width="1000"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh1vam-03&bg_color=1a1b27&color=9b5de5&line=9b5de5&point=ffffff&area_color=9b5de5&area=true&hide_border=true" alt="Most Used Languages" width="1000"/>
+      </td>
+        <td style="padding: 10px; width: 35%;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sh1vam-03&repo=whatsapp-spammer&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" width="1000"/>
       </td>
     </tr>
           <!-- GitHub Contribution Languages -->
     <tr>
       <td style="padding: 10px; width: 35%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1vam-03&layout=compact&theme=dark" alt="Most Used Languages" width="1000"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1vam-03&layout=compact&hide_border=true&title_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Most Used Languages" width="1000"/>
+      </td>
+       <td style="padding: 10px; width: 35%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=sh1vam-03&show_icons=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Most Used Languages" width="1000"/>
       </td>
     </tr>
   </table>
@@ -162,7 +168,7 @@
         <td style="padding: 20px; text-align: center;">
           <h4 style="color: #6F3AFF; margin-bottom: 15px;">GitHub Achievements</h4>
           <!-- Fixed GitHub Trophies URL -->
-          <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=sh1vam-03&theme=tokyonight&no-frame=true&column=5&margin-w=5&margin-h=5" alt="GitHub Trophies" width="1000"/>
+          <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=sh1vam-03&theme=tokyonight&no-frame=true&column=4&margin-w=5&margin-h=5" alt="GitHub Trophies" width="1000"/>
         </td>
       </tr>
     </table>
