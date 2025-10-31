@@ -140,23 +140,7 @@
     </tr>
   </table>
 
-  <!-- GitHub Contribution Graph-->
   <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <tr>
-      <td style="padding: 10px; width: 65%;">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh1vam-03&theme=high-contrast&bg_color=0D1117&color=FFFFFF&line=6F3AFF&point=FFFFFF&area=true&area_color=6F3AFF&hide_border=true" alt="Contribution Graph" width="1000"/>
-      </td>
-    </tr>
-      <!-- GitHub Contribution Snake -->
-    <tr>
-    <td style="padding: 10px; width: 65%;">
-    <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/5305579a6bf1c2269c9aa9351b172d1788549568/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/5305579a6bf1c2269c9aa9351b172d1788549568/github-contribution-grid-snake.svg">
-  <img alt="Shivam's GitHub Contribution Snake" src="https://raw.githubusercontent.com/sh1vam-03/sh1vam-03/5305579a6bf1c2269c9aa9351b172d1788549568/github-contribution-grid-snake.svg">
-</picture>
-    </td>
-    </tr>
           <!-- GitHub Contribution Languages -->
     <tr>
       <td style="padding: 10px; width: 35%;">
