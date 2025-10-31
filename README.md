@@ -160,7 +160,7 @@
       </td>
     </tr>
   </table>
-  
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
   <!-- GitHub Trophies - FIXED SECTION -->
   <div style="width: 100%; background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; overflow-x: auto;">
     <table style="width: 100%; border-collapse: collapse;">
