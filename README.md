@@ -147,7 +147,7 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh1vam-03&bg_color=dark&color=9b5de5&line=9b5de5&point=ffffff&area_color=9b5de5&area=true&hide_border=true" alt="Most Used Languages" width="1000"/>
       </td>
         <td style="padding: 10px; width: 35%;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sh1vam-03&repo=whatsapp-spammer&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=dark" width="1000"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sh1vam-03&repo=whatsapp-spammer&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=black" width="1000"/>
       </td>
     </tr>
           <!-- GitHub Contribution Languages -->
