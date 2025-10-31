@@ -130,7 +130,7 @@
   <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
     <tr>
       <td style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=sh1vam-03&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=6F3AFF&icon_color=6F3AFF&text_color=FFFFFF&ring_color=6F3AFF" alt="GitHub Stats" width="1000"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=sh1vam-03&show_icons=true&theme=dark" alt="GitHub Stats" width="1000"/>
       </td>
     </tr>
     <tr>
