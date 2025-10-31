@@ -144,7 +144,7 @@
               <!-- GitHub Contribution Languages -->
     <tr>
       <td style="padding: 10px; width: 35%;">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh1vam-03&bg_color=dark&color=9b5de5&line=9b5de5&point=ffffff&area_color=9b5de5&area=true&hide_border=true" alt="Most Used Languages" width="1000"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh1vam-03&bg_color=1a1b27&color=9b5de5&line=9b5de5&point=ffffff&area_color=9b5de5&area=true&hide_border=true" alt="Most Used Languages" width="1000"/>
       </td>
         <td style="padding: 10px; width: 35%;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=sh1vam-03&repo=whatsapp-spammer&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" width="1000"/>
@@ -156,7 +156,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1vam-03&layout=compact&hide_border=true&title_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Most Used Languages" width="1000"/>
       </td>
        <td style="padding: 10px; width: 35%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=sh1vam-03&show_icons=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=dark" alt="Most Used Languages" width="1000"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=sh1vam-03&show_icons=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Most Used Languages" width="1000"/>
       </td>
     </tr>
   </table>
