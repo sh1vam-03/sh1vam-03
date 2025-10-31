@@ -161,7 +161,7 @@
 </tr>
 <tr>
        <td style="padding: 10px; width: 35%;">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs" alt="Most Used Languages" width="1000"/>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffmeindia" alt="Most Used Languages" width="1000"/>
       </td>
 </tr>
   </table>
