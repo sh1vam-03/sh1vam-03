@@ -164,13 +164,14 @@
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sh1vam&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Most Used Languages" width="1000"/>
       </td>
 </tr>
+
+## <h4 style="color: #6F3AFF; margin-bottom: 15px;">GitHub Achievements</h4>
   </table>
   <!-- GitHub Trophies - FIXED SECTION -->
   <div style="width: 100%; background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; overflow-x: auto;">
     <table style="width: 100%; border-collapse: collapse;">
       <tr>
         <td style="padding: 20px; text-align: center;">
-          <h4 style="color: #6F3AFF; margin-bottom: 15px;">GitHub Achievements</h4>
           <!-- Fixed GitHub Trophies URL -->
           <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=sh1vam-03&theme=tokyonight&no-frame=true&column=4&margin-w=5&margin-h=5" alt="GitHub Trophies" width="1000"/>
         </td>
