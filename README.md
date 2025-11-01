@@ -1,5 +1,15 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F3AFF&height=150&section=header&text=sh1vam-03&desc=Cyber%20Security%20Expert%20%7C%20Full%20Stack%20Developer&fontSize=50&descSize=15&fontAlignY=25&descAlignY=45&animation=fadeIn&fontColor=fff"/>
+<!-- Waving Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F3AFF&height=100&section=header&animation=fadeIn" />
+
+<!-- Professional Role Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer-sh1vam--03-6F3AFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Web_Tester-0D1117?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0D1117" />
+</p>
+
+
+
 
   <div style="margin: 20px 0; padding: 0 15px;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=6F3AFF&center=true&vCenter=true&width=800&height=70&lines=Full+Stack+Developer;Web+Security+%26+Penetration+Tester;" alt="Typing SVG" style="max-width: 100%; height: auto;"/>
@@ -8,22 +18,22 @@
 
 
 <div align="center" style="margin: 20px 0; padding: 0 15px;">
-  <table style="width: 100%; max-width: 800px; margin: 0 auto; border-collapse: collapse;">
-    <tr>
-      <td style="padding: 10px; text-align: center;">
-        <img alt="Views" title="Profile Views" src="https://komarev.com/ghpvc/?username=sh1vam-03&label=Profile%20Views&color=6F3AFF&style=for-the-badge&labelColor=1A1A1A" alt="profile views" style="max-width: 100%;"/>
-      </td>
-      <td style="padding: 10px; text-align: center;">
-        <a href="https://github.com/sh1vam-03?tab=followers">
-          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sh1vam-03?color=6F3AFF&labelColor=1A1A1A&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" style="max-width: 100%;"/>
-        </a>
-      </td>
-      <td style="padding: 10px; text-align: center;">
-          <img alt="stars" title="Earned Stars" src="https://img.shields.io/github/stars/sh1vam-03?affiliations=OWNER&color=6F3AFF&style=for-the-badge&logo=github&label=Stars" style="max-width: 100%;"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- Profile Statistics -->
+<table align="center" style="width: 100%; max-width: 800px; border-collapse: collapse; margin: 20px auto;">
+  <tr>
+    <td align="center" style="padding: 12px;">
+      <img src="https://komarev.com/ghpvc/?username=sh1vam-03&label=PROFILE+VIEWS&color=6F3AFF&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
+    </td>
+    <td align="center" style="padding: 12px;">
+      <a href="https://github.com/sh1vam-03?tab=followers">
+        <img src="https://custom-icon-badges.demolab.com/github/followers/sh1vam-03?color=6F3AFF&labelColor=0D1117&style=for-the-badge&logo=person-add&label=FOLLOWERS&logoColor=white" alt="GitHub Followers" />
+      </a>
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://img.shields.io/github/stars/sh1vam-03?affiliations=OWNER&color=6F3AFF&style=for-the-badge&logo=github&label=STARS&labelColor=0D1117" alt="GitHub Stars" />
+    </td>
+  </tr>
+</table></div>
 
 ## About Me  
 <div style="background: rgba(111, 58, 255, 0.05); padding: 15px; border-radius: 10px; max-width: 1200px; margin: 0 auto 30px; width: calc(100% - 30px);">
@@ -135,7 +145,7 @@
     </tr>
     <tr>
       <td style="padding: 10px;">
-        <img src="https://streak-stats.demolab.com/?user=sh1vam-03&theme=dark&hide_border=true" alt="GitHub Streak" width="1000"/>
+        <img src="https://streak-stats.demolab.com/?user=sh1vam-03&hide_border=true&background=1a1b27&ring=9b5de5&fire=9b5de5&currStreakNum=9b5de5&sideNums=9b5de5&currStreakLabel=9b5de5&sideLabels=9b5de5&dates=dcdcdc&stroke=9b5de5&ring=bc4e9c&fire=f80759&currStreakNum=red" alt="GitHub Streak" width="1000"/>
       </td>
     </tr>
   </table>
@@ -164,14 +174,32 @@
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sh1vam&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Most Used Languages" width="1000"/>
       </td>
 </tr>
-
-## <h4 style="color: #6F3AFF; margin-bottom: 15px;">GitHub Achievements</h4>
   </table>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   <!-- GitHub Trophies - FIXED SECTION -->
   <div style="width: 100%; background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; overflow-x: auto;">
     <table style="width: 100%; border-collapse: collapse;">
       <tr>
         <td style="padding: 20px; text-align: center;">
+        <h4 style="color: #6F3AFF; margin-bottom: 15px;">GitHub Achievements</h4>
           <!-- Fixed GitHub Trophies URL -->
           <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=sh1vam-03&theme=tokyonight&no-frame=true&column=4&margin-w=5&margin-h=5" alt="GitHub Trophies" width="1000"/>
         </td>
@@ -211,5 +239,5 @@
   </table>
 </div>
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F3AFF&height=120&section=footer&animation=fadeIn&stroke=000000&strokeWidth=2" style="max-width: 100%;"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F3AFF&height=100&section=footer&animation=fadeIn&stroke=000000&strokeWidth=2" style="max-width: 100%;"/>
 </div>
