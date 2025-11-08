@@ -55,7 +55,6 @@
 </div>
 
 ## Tech Arsenal
-
 <div align="center" style="margin: 30px auto; max-width: 1200px; width: calc(100% - 30px); padding: 0 15px;">
 
   <!-- Security Tools Table -->
@@ -83,7 +82,6 @@
       </tr>
     </table>
   </div>
-  
   <!-- Frontend/Backend Breakdown -->
   <table style="width: 100%; background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; border-collapse: collapse;">
     <tr>
@@ -113,20 +111,13 @@
 </div>
 
 ## GitHub Analytics
-
-
-              <!-- GitHub Contribution stats -->
   <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+<!-- GitHub Contribution stats -->
     <tr>
       <td style="padding: 10px; width: 35%;">
         <img src="https://gh-readme-profile.vercel.app/api?username=sh1vam-03&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Most Used Languages" width="1000"/>
-      </td>
-        <td style="padding: 10px; width: 35%;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sh1vam-03&repo=whatsapp-spammer&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" width="1000"/>
-      </td>
     </tr>
 </table>
-
           <!-- GitHub Contribution Languages -->
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
 <tr>
@@ -137,25 +128,32 @@
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sh1vam&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Most Used Languages" width="1000"/>
       </td>
 </tr>
-  </table>
-  
-  <!-- GitHub Trophies - FIXED SECTION -->
-  <div style="width: 100%; background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; overflow-x: auto;">
-    <table style="width: 100%; border-collapse: collapse;">
-      <tr>
-        <td style="padding: 20px; text-align: center;">
-        <h4 style="color: #6F3AFF; margin-bottom: 15px;">GitHub Achievements</h4>
-          <!-- Fixed GitHub Trophies URL -->
-          <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=sh1vam-03&theme=tokyonight&no-frame=true&column=4&margin-w=5&margin-h=5" alt="GitHub Trophies" width="1000"/>
-        </td>
-      </tr>
-    </table>
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <!-- LEFT SIDE - TOP ROW (Trophies) -->
+    <td style="padding: 20px; text-align: center; vertical-align: top;">
+      <h4 style="color: #6F3AFF; margin-bottom: 15px;">🏆 GitHub Achievements</h4>
+      <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=sh1vam-03&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=5&margin-h=5" 
+           alt="GitHub Trophies" width="450"/>
+      <br><br>
+      <!-- LEFT SIDE - BOTTOM ROW (Pinned Repo) -->
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sh1vam-03&repo=whatsapp-spammer&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" 
+           alt="Pinned Repo" width="450"/>
+    </td>
+    <!-- RIGHT SIDE (Portfolio) -->
+    <td style="padding: 20px; text-align: center; vertical-align: middle;">
+      <a href="https://sh1vam-03.github.io/portfolio" style="color: #6F3AFF; font-size: 18px; font-weight: bold; text-decoration: none;">
+        🌐 Visit My Portfolio
+      </a>
+      <br><br>
+      <img src="https://github.com/user-attachments/assets/bc3cf9af-ad02-4c73-a9cc-88624c937474" 
+           alt="Portfolio Preview" width="450"/>
+    </td>
+  </tr>
+</table>
+
   </div>
 </div>
-
-## [Visit my Portfolio](https://sh1vam-03.github.io/portfolio)
-![Portfolio Preview](https://github.com/user-attachments/assets/bc3cf9af-ad02-4c73-a9cc-88624c937474)
-## Let's Connect
 
 <div align="center" style="background: rgba(111, 58, 255, 0.1); padding: 30px; border-radius: 10px; margin: 30px auto; max-width: 1000px; width: calc(100% - 30px);">
   <table style="width: 100%; border-collapse: collapse;">
