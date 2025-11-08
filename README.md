@@ -84,27 +84,6 @@
     </table>
   </div>
   
-  <!-- Core Stack and Dev Tools Table -->
-  <table style="width: 100%; background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; border-collapse: collapse;">
-    <tr>
-      <th colspan="2" style="padding: 15px; text-align: center; color: #6F3AFF;"><b>Development Stack</b></th>
-    </tr>
-    <tr>
-      <td style="padding: 15px; background: rgba(111, 58, 255, 0.1); border-radius: 10px; text-align: center;">
-        <h4 style="margin: 0 0 10px 0; text-align: center; color: #6F3AFF;">Core Technologies</h4>
-        <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,ts,js,python,html,css,tailwind" height="40" style="max-width: 100%;" alt="Core Stack"/>
-        </div>
-      </td>
-      <td style="padding: 15px; background: rgba(111, 58, 255, 0.1); border-radius: 10px; text-align: center;">
-        <h4 style="margin: 0 0 10px 0; text-align: center; color: #6F3AFF;">Dev Tools</h4>
-        <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-          <img src="https://skillicons.dev/icons?i=vscode,git,docker,linux,aws,firebase,vercel,nginx" height="40" style="max-width: 100%;" alt="Dev Tools"/>
-        </div>
-      </td>
-    </tr>
-  </table>
-
   <!-- Frontend/Backend Breakdown -->
   <table style="width: 100%; background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; border-collapse: collapse;">
     <tr>
@@ -135,26 +114,12 @@
 
 ## GitHub Analytics
 
-<div align="center" style="margin: 30px auto; max-width: 1200px; width: calc(100% - 30px); padding: 0 15px;">
-  <!-- GitHub Stats Cards -->
-  <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <tr>
-      <td style="padding: 10px;">
-        <img src="https://gh-readme-profile.vercel.app/api?username=sh1vam-03&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="GitHub Stats" width="1000"/>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;">
-        <img src="https://streak-stats.demolab.com/?user=sh1vam-03&hide_border=true&background=1a1b27&ring=9b5de5&fire=9b5de5&currStreakNum=9b5de5&sideNums=9b5de5&currStreakLabel=9b5de5&sideLabels=9b5de5&dates=dcdcdc&stroke=9b5de5&ring=bc4e9c&fire=f80759&currStreakNum=red" alt="GitHub Streak" width="1000"/>
-      </td>
-    </tr>
-  </table>
 
-  <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
               <!-- GitHub Contribution stats -->
+  <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
     <tr>
       <td style="padding: 10px; width: 35%;">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh1vam-03&bg_color=1a1b27&color=9b5de5&line=9b5de5&point=ffffff&area_color=9b5de5&area=true&hide_border=true" alt="Most Used Languages" width="1000"/>
+        <img src="https://gh-readme-profile.vercel.app/api?username=sh1vam-03&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Most Used Languages" width="1000"/>
       </td>
         <td style="padding: 10px; width: 35%;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=sh1vam-03&repo=whatsapp-spammer&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" width="1000"/>
@@ -162,8 +127,8 @@
     </tr>
 </table>
 
-<table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
           <!-- GitHub Contribution Languages -->
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
 <tr>
       <td style="padding: 10px; width: 35%;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1vam-03&layout=compact&hide_border=true&title_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Most Used Languages" width="1000"/>
@@ -173,24 +138,6 @@
       </td>
 </tr>
   </table>
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
   <!-- GitHub Trophies - FIXED SECTION -->
   <div style="width: 100%; background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; overflow-x: auto;">
