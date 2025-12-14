@@ -83,31 +83,38 @@
     </table>
   </div>
   <!-- Frontend/Backend Breakdown -->
-  <table style="width: 100%; background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; border-collapse: collapse;">
-    <tr>
-      <th colspan="2" style="padding: 15px; text-align: center; color: #6F3AFF;"><b>Full Stack Breakdown</b></th>
-    </tr>
-    <tr>
-      <td style="padding: 15px; background: rgba(111, 58, 255, 0.1); border-radius: 10px; text-align: center;">
-        <h4 style="margin: 0 0 10px 0; text-align: center; color: #6F3AFF;">Frontend</h4>
-        <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width: 100%;" alt="React"/>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" style="max-width: 100%;" alt="Next.js"/>
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="max-width: 100%;" alt="TypeScript"/>
-          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" style="max-width: 100%;" alt="Tailwind CSS"/>
-        </div>
-      </td>
-      <td style="padding: 15px; background: rgba(111, 58, 255, 0.1); border-radius: 10px; text-align: center;">
-        <h4 style="margin: 0 0 10px 0; text-align: center; color: #6F3AFF;">Backend</h4>
-        <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="max-width: 100%;" alt="Node.js"/>
-          <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" style="max-width: 100%;" alt="Express.js"/>
-          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="max-width: 100%;" alt="MongoDB"/>
-          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="max-width: 100%;" alt="PostgreSQL"/>
-        </div>
-      </td>
-    </tr>
-  </table>
+<!-- Full Stack Breakdown -->
+<table style="width: 100%; background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; border-collapse: collapse;">
+  <tr>
+    <th colspan="2" style="padding: 15px; text-align: center; color: #6F3AFF;">
+      <b>Full Stack Development (Learning & Building)</b>
+    </th>
+  </tr>
+  <tr>
+    <!-- Frontend -->
+    <td style="padding: 15px; background: rgba(111, 58, 255, 0.1); border-radius: 10px; text-align: center; vertical-align: top;">
+      <h4 style="margin: 0 0 10px 0; color: #6F3AFF;">Frontend</h4>
+      <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+      </div>
+    </td>
+    <!-- Backend -->
+    <td style="padding: 15px; background: rgba(111, 58, 255, 0.1); border-radius: 10px; text-align: center; vertical-align: top;">
+      <h4 style="margin: 0 0 10px 0; color: #6F3AFF;">Backend</h4>
+      <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+        <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" alt="REST API"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      </div>
+    </td>
+  </tr>
+</table>
 </div>
 
 ## GitHub Analytics
@@ -159,19 +166,13 @@
   <table style="width: 100%; border-collapse: collapse;">
     <tr>
       <td style="padding: 20px; text-align: center; vertical-align: middle;">
-        <h3 style="margin: 0 0 20px 0; color: #6F3AFF;">Let's collaborate and build secure solutions!</h3>
+        <h3 style="margin: 0 0 20px 0; color: #6F3AFF;">Let's collaborate!</h3>
         <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
           <a href="https://www.linkedin.com/in/sh1vam~03">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;"/>
           </a>
           <a href="https://tryhackme.com/p/sh1vam.03">
             <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" style="max-width: 100%;"/>
-          </a>
-          <a href="https://www.instagram.com/sh1vam_03">
-            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="max-width: 100%;"/>
-          </a>
-          <a href="https://github.com/sh1vam-03">
-            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="max-width: 100%;"/>
           </a>
           <a href="mailto: balaji030204@gmail.com">
             <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="max-width: 100%;"/>
