@@ -127,14 +127,14 @@
 </table>
           <!-- GitHub Contribution Languages -->
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-<!-- <tr>
+<tr>
       <td style="padding: 10px; width: 35%;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1vam-03&layout=compact&hide_border=true&title_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Most Used Languages" width="1000"/>
       </td>
        <td style="padding: 10px; width: 35%;">
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sh1vam&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Most Used Languages" width="1000"/>
       </td>
-</tr> -->
+</tr>
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <!-- LEFT SIDE - TOP ROW (Trophies) -->
